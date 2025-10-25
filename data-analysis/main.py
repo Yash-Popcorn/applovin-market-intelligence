@@ -7,10 +7,11 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 import util.color_theory
 import util.video_length
+import util.face_keypoints
 
 # SETTINGS
 MAX_IMAGES_TO_PROCESS = 5  # None = all images, or set a number (e.g., 5, 10)
-MAX_VIDEOS_TO_PROCESS = None  # None = all videos, or set a number
+MAX_VIDEOS_TO_PROCESS = 5  # None = all videos, or set a number
 
 # Define base paths
 BASE_DIR = Path(__file__).parent
@@ -35,7 +36,10 @@ def print_all_media_paths():
                 #util.color_theory.run(file_path)
 
                 # time lapse of each video
-                util.video_length.run(file_path)
+                #util.video_length.run(file_path)
+                
+                # face keypoints of each image/video
+                util.face_keypoints.run(file_path)
 
 if __name__ == "__main__":
     print_all_media_paths()
