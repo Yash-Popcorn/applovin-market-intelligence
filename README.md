@@ -36,29 +36,3 @@ source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 ```
-
-## Usage
-
-### Running Color Palette Extraction
-
-```bash
-# Activate virtual environment (if using venv)
-source .venv/bin/activate
-
-# Run the analysis on all images
-python3 data-analysis/main.py
-```
-
-This will:
-- Process all images in `data-analysis/data/ads/images/`
-- Extract color palettes (5 dominant colors by default)
-- Analyze color properties (saturation, brightness, vibrancy)
-- Save visualizations to `data-analysis/data/results/color_palettes/`
-
-### Output
-
-Color palette visualizations are saved as `{original_filename}_with_palette.png` in the results directory. Each visualization shows:
-- The original image
-- A color palette bar below with the extracted dominant colors
-- Console output with hex color codes and analysis metrics
-
