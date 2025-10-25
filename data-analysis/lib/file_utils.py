@@ -13,4 +13,3 @@ def is_video_or_image(path):
         return 'video'
     else:
         return 'unknown'
-

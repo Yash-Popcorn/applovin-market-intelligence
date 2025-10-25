@@ -6,6 +6,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 
 import util.color_theory
+import util.video_length
 
 # SETTINGS
 MAX_IMAGES_TO_PROCESS = 5  # None = all images, or set a number (e.g., 5, 10)
@@ -17,7 +18,6 @@ DATA_DIR = BASE_DIR / "data"
 ADS_DIR = DATA_DIR / "ads"
 IMAGES_DIR = ADS_DIR / "images"
 VIDEOS_DIR = ADS_DIR / "videos"
-
 
 def print_all_media_paths():
     media_dirs = [
@@ -31,8 +31,11 @@ def print_all_media_paths():
             if max_files is not None:
                 files = files[:max_files]
             for file_path in files:
-                util.color_theory.run(file_path)
+                # color palette of each image
+                #util.color_theory.run(file_path)
 
+                # time lapse of each video
+                util.video_length.run(file_path)
 
 if __name__ == "__main__":
     print_all_media_paths()
