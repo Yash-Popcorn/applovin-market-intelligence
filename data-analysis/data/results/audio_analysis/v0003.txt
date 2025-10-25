@@ -1,0 +1,3 @@
+Average Volume: -15.89 dB
+Average Pitch: 1695.91 Hz
+Average BPM: 117.45
