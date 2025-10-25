@@ -1,0 +1,118 @@
+Second 0: No pose detected
+Second 1: No pose detected
+Second 2: No pose detected
+Second 3: No pose detected
+Second 4: No pose detected
+Second 5: No pose detected
+Second 6:
+  Body Pose:
+    Landmark 0: (400, 234) | Visibility: 0.999
+    Landmark 1: (423, 196) | Visibility: 0.999
+    Landmark 2: (436, 194) | Visibility: 0.999
+    Landmark 3: (447, 193) | Visibility: 0.999
+    Landmark 4: (373, 199) | Visibility: 0.999
+    Landmark 5: (356, 200) | Visibility: 0.999
+    Landmark 6: (343, 200) | Visibility: 0.998
+    Landmark 7: (466, 196) | Visibility: 0.999
+    Landmark 8: (323, 206) | Visibility: 0.999
+    Landmark 9: (428, 264) | Visibility: 1.000
+    Landmark 10: (377, 268) | Visibility: 1.000
+    Landmark 11: (549, 345) | Visibility: 1.000
+    Landmark 12: (251, 345) | Visibility: 0.998
+    Landmark 13: (570, 579) | Visibility: 0.903
+    Landmark 14: (211, 560) | Visibility: 0.858
+    Landmark 15: (540, 665) | Visibility: 0.604
+    Landmark 16: (251, 619) | Visibility: 0.551
+    Landmark 17: (538, 709) | Visibility: 0.522
+    Landmark 18: (261, 650) | Visibility: 0.516
+    Landmark 19: (517, 685) | Visibility: 0.541
+    Landmark 20: (268, 618) | Visibility: 0.541
+    Landmark 21: (505, 670) | Visibility: 0.515
+    Landmark 22: (276, 608) | Visibility: 0.491
+    Landmark 23: (464, 644) | Visibility: 0.989
+    Landmark 24: (300, 646) | Visibility: 0.972
+    Landmark 25: (556, 742) | Visibility: 0.523
+    Landmark 26: (239, 791) | Visibility: 0.421
+    Landmark 27: (455, 1039) | Visibility: 0.233
+    Landmark 28: (293, 1062) | Visibility: 0.196
+    Landmark 29: (428, 1072) | Visibility: 0.433
+    Landmark 30: (309, 1095) | Visibility: 0.243
+    Landmark 31: (470, 1168) | Visibility: 0.189
+    Landmark 32: (282, 1180) | Visibility: 0.137
+Second 7:
+  Body Pose:
+    Landmark 0: (299, 233) | Visibility: 0.999
+    Landmark 1: (309, 202) | Visibility: 0.998
+    Landmark 2: (319, 201) | Visibility: 0.998
+    Landmark 3: (329, 200) | Visibility: 0.998
+    Landmark 4: (284, 205) | Visibility: 0.998
+    Landmark 5: (274, 205) | Visibility: 0.998
+    Landmark 6: (265, 206) | Visibility: 0.998
+    Landmark 7: (344, 210) | Visibility: 0.998
+    Landmark 8: (257, 218) | Visibility: 0.998
+    Landmark 9: (322, 259) | Visibility: 0.999
+    Landmark 10: (286, 262) | Visibility: 0.999
+    Landmark 11: (413, 330) | Visibility: 0.999
+    Landmark 12: (232, 348) | Visibility: 0.998
+    Landmark 13: (529, 424) | Visibility: 0.890
+    Landmark 14: (176, 509) | Visibility: 0.845
+    Landmark 15: (539, 432) | Visibility: 0.609
+    Landmark 16: (241, 507) | Visibility: 0.562
+    Landmark 17: (542, 439) | Visibility: 0.530
+    Landmark 18: (259, 520) | Visibility: 0.525
+    Landmark 19: (526, 417) | Visibility: 0.549
+    Landmark 20: (266, 488) | Visibility: 0.549
+    Landmark 21: (519, 418) | Visibility: 0.526
+    Landmark 22: (263, 486) | Visibility: 0.501
+    Landmark 23: (376, 669) | Visibility: 0.986
+    Landmark 24: (291, 669) | Visibility: 0.970
+    Landmark 25: (371, 763) | Visibility: 0.490
+    Landmark 26: (364, 763) | Visibility: 0.421
+    Landmark 27: (412, 953) | Visibility: 0.221
+    Landmark 28: (363, 961) | Visibility: 0.203
+    Landmark 29: (419, 980) | Visibility: 0.406
+    Landmark 30: (354, 986) | Visibility: 0.256
+    Landmark 31: (434, 1006) | Visibility: 0.182
+    Landmark 32: (381, 1036) | Visibility: 0.149
+Second 8:
+  Body Pose:
+    Landmark 0: (333, 250) | Visibility: 0.998
+    Landmark 1: (351, 226) | Visibility: 0.997
+    Landmark 2: (362, 226) | Visibility: 0.997
+    Landmark 3: (373, 226) | Visibility: 0.997
+    Landmark 4: (298, 224) | Visibility: 0.997
+    Landmark 5: (284, 224) | Visibility: 0.997
+    Landmark 6: (282, 223) | Visibility: 0.997
+    Landmark 7: (389, 234) | Visibility: 0.997
+    Landmark 8: (290, 231) | Visibility: 0.997
+    Landmark 9: (360, 271) | Visibility: 0.998
+    Landmark 10: (315, 270) | Visibility: 0.998
+    Landmark 11: (457, 331) | Visibility: 0.998
+    Landmark 12: (266, 342) | Visibility: 0.997
+    Landmark 13: (537, 446) | Visibility: 0.880
+    Landmark 14: (179, 453) | Visibility: 0.822
+    Landmark 15: (522, 427) | Visibility: 0.613
+    Landmark 16: (235, 443) | Visibility: 0.557
+    Landmark 17: (514, 430) | Visibility: 0.534
+    Landmark 18: (247, 455) | Visibility: 0.518
+    Landmark 19: (504, 403) | Visibility: 0.552
+    Landmark 20: (254, 428) | Visibility: 0.541
+    Landmark 21: (505, 404) | Visibility: 0.531
+    Landmark 22: (251, 428) | Visibility: 0.497
+    Landmark 23: (405, 670) | Visibility: 0.979
+    Landmark 24: (312, 667) | Visibility: 0.964
+    Landmark 25: (377, 795) | Visibility: 0.467
+    Landmark 26: (363, 766) | Visibility: 0.417
+    Landmark 27: (404, 943) | Visibility: 0.211
+    Landmark 28: (360, 954) | Visibility: 0.214
+    Landmark 29: (415, 961) | Visibility: 0.387
+    Landmark 30: (359, 975) | Visibility: 0.276
+    Landmark 31: (418, 1010) | Visibility: 0.175
+    Landmark 32: (352, 1042) | Visibility: 0.161
+Second 9: No pose detected
+Second 10: No pose detected
+Second 11: No pose detected
+Second 12: No pose detected
+Second 13: No pose detected
+Second 14: No pose detected
+Second 15: No pose detected

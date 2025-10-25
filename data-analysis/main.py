@@ -8,6 +8,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 import util.color_theory
 import util.video_length
 import util.face_keypoints
+import util.body_keypoints
 
 # SETTINGS
 MAX_IMAGES_TO_PROCESS = 5  # None = all images, or set a number (e.g., 5, 10)
@@ -40,6 +41,9 @@ def print_all_media_paths():
                 
                 # face keypoints of each image/video
                 util.face_keypoints.run(file_path)
+                
+                # body keypoints of each image/video
+                util.body_keypoints.run(file_path)
 
 if __name__ == "__main__":
     print_all_media_paths()
