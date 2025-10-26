@@ -8,4 +8,38 @@ Vocals: vocals.wav (2.53 MB)
 Instrumental: instrumental.wav (2.53 MB)
 
 ============================================================
+DYNAMICS ANALYSIS
+============================================================
+
+Drums:
+  RMS Level: -29.08 dB
+  Peak Level: -4.19 dB
+  Dynamic Range: 24.89 dB
+  Crest Factor: 17.56
+
+Bass:
+  RMS Level: -37.46 dB
+  Peak Level: -18.48 dB
+  Dynamic Range: 18.98 dB
+  Crest Factor: 8.89
+
+Other:
+  RMS Level: -42.75 dB
+  Peak Level: -22.08 dB
+  Dynamic Range: 20.67 dB
+  Crest Factor: 10.80
+
+Vocals:
+  RMS Level: -19.99 dB
+  Peak Level: -1.46 dB
+  Dynamic Range: 18.53 dB
+  Crest Factor: 8.45
+
+Instrumental:
+  RMS Level: -28.21 dB
+  Peak Level: -4.10 dB
+  Dynamic Range: 24.11 dB
+  Crest Factor: 16.04
+
+============================================================
 Total tracks: 5
