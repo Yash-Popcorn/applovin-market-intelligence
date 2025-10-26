@@ -1,0 +1,680 @@
+Total text boxes detected: 97
+
+Text Box 1:
+  Text: =)
+  Position: (x=12, y=8)
+  Size: (width=36, height=40)
+  Confidence: 57%
+  Block: 1, Paragraph: 1, Line: 1, Word: 1
+
+Text Box 2:
+  Text: ‘crunchgainesville
+  Position: (x=52, y=8)
+  Size: (width=113, height=25)
+  Confidence: 28%
+  Block: 1, Paragraph: 1, Line: 1, Word: 2
+
+Text Box 3:
+  Text: Sponsored
+  Position: (x=56, y=23)
+  Size: (width=59, height=30)
+  Confidence: 93%
+  Block: 1, Paragraph: 1, Line: 2, Word: 1
+
+Text Box 4:
+  Text: ae
+  Position: (x=387, y=30)
+  Size: (width=18, height=3)
+  Confidence: 12%
+  Block: 1, Paragraph: 1, Line: 2, Word: 2
+
+Text Box 5:
+  Text: Bal
+  Position: (x=18, y=56)
+  Size: (width=73, height=42)
+  Confidence: 26%
+  Block: 1, Paragraph: 1, Line: 3, Word: 1
+
+Text Box 6:
+  Text: FITNESS
+  Position: (x=21, y=107)
+  Size: (width=71, height=15)
+  Confidence: 94%
+  Block: 1, Paragraph: 1, Line: 4, Word: 1
+
+Text Box 7:
+  Text: PEAK
+  Position: (x=118, y=149)
+  Size: (width=25, height=8)
+  Confidence: 92%
+  Block: 1, Paragraph: 1, Line: 5, Word: 1
+
+Text Box 8:
+  Text: REsutts|
+  Position: (x=148, y=149)
+  Size: (width=42, height=8)
+  Confidence: 34%
+  Block: 1, Paragraph: 1, Line: 5, Word: 2
+
+Text Box 9:
+  Text: 529
+  Position: (x=140, y=163)
+  Size: (width=33, height=8)
+  Confidence: 48%
+  Block: 1, Paragraph: 1, Line: 6, Word: 1
+
+Text Box 10:
+  Text: our
+  Position: (x=9, y=174)
+  Size: (width=22, height=10)
+  Confidence: 17%
+  Block: 1, Paragraph: 1, Line: 7, Word: 1
+
+Text Box 11:
+  Text: awenmies
+  Position: (x=35, y=174)
+  Size: (width=57, height=10)
+  Confidence: 2%
+  Block: 1, Paragraph: 1, Line: 7, Word: 2
+
+Text Box 12:
+  Text: |
+  Position: (x=109, y=159)
+  Size: (width=16, height=35)
+  Confidence: 41%
+  Block: 1, Paragraph: 1, Line: 7, Word: 3
+
+Text Box 13:
+  Text: nc
+  Position: (x=145, y=163)
+  Size: (width=16, height=20)
+  Confidence: 28%
+  Block: 1, Paragraph: 1, Line: 7, Word: 4
+
+Text Box 14:
+  Text: Siete
+  Position: (x=11, y=207)
+  Size: (width=36, height=6)
+  Confidence: 0%
+  Block: 1, Paragraph: 1, Line: 8, Word: 1
+
+Text Box 15:
+  Text: Esp
+  Position: (x=50, y=207)
+  Size: (width=41, height=7)
+  Confidence: 27%
+  Block: 1, Paragraph: 1, Line: 8, Word: 2
+
+Text Box 16:
+  Text: °
+  Position: (x=149, y=203)
+  Size: (width=10, height=10)
+  Confidence: 24%
+  Block: 1, Paragraph: 1, Line: 8, Word: 3
+
+Text Box 17:
+  Text: o
+  Position: (x=229, y=203)
+  Size: (width=10, height=10)
+  Confidence: 25%
+  Block: 1, Paragraph: 1, Line: 8, Word: 4
+
+Text Box 18:
+  Text: °
+  Position: (x=308, y=203)
+  Size: (width=10, height=10)
+  Confidence: 32%
+  Block: 1, Paragraph: 1, Line: 8, Word: 5
+
+Text Box 19:
+  Text: °
+  Position: (x=382, y=203)
+  Size: (width=10, height=11)
+  Confidence: 40%
+  Block: 1, Paragraph: 1, Line: 8, Word: 6
+
+Text Box 20:
+  Text: ited
+  Position: (x=11, y=221)
+  Size: (width=45, height=6)
+  Confidence: 15%
+  Block: 1, Paragraph: 1, Line: 9, Word: 1
+
+Text Box 21:
+  Text: o
+  Position: (x=149, y=219)
+  Size: (width=10, height=11)
+  Confidence: 27%
+  Block: 1, Paragraph: 1, Line: 9, Word: 2
+
+Text Box 22:
+  Text: °
+  Position: (x=228, y=219)
+  Size: (width=11, height=10)
+  Confidence: 69%
+  Block: 1, Paragraph: 1, Line: 9, Word: 3
+
+Text Box 23:
+  Text: ©
+  Position: (x=308, y=219)
+  Size: (width=10, height=10)
+  Confidence: 86%
+  Block: 1, Paragraph: 1, Line: 9, Word: 4
+
+Text Box 24:
+  Text: °
+  Position: (x=382, y=219)
+  Size: (width=10, height=11)
+  Confidence: 47%
+  Block: 1, Paragraph: 1, Line: 9, Word: 5
+
+Text Box 25:
+  Text: sare
+  Position: (x=11, y=237)
+  Size: (width=18, height=4)
+  Confidence: 39%
+  Block: 1, Paragraph: 1, Line: 10, Word: 1
+
+Text Box 26:
+  Text: °
+  Position: (x=149, y=235)
+  Size: (width=10, height=10)
+  Confidence: 40%
+  Block: 1, Paragraph: 1, Line: 10, Word: 2
+
+Text Box 27:
+  Text: °
+  Position: (x=229, y=235)
+  Size: (width=10, height=10)
+  Confidence: 37%
+  Block: 1, Paragraph: 1, Line: 10, Word: 3
+
+Text Box 28:
+  Text: °
+  Position: (x=308, y=235)
+  Size: (width=10, height=10)
+  Confidence: 32%
+  Block: 1, Paragraph: 1, Line: 10, Word: 4
+
+Text Box 29:
+  Text: cana
+  Position: (x=11, y=265)
+  Size: (width=18, height=6)
+  Confidence: 37%
+  Block: 1, Paragraph: 1, Line: 11, Word: 1
+
+Text Box 30:
+  Text: ti
+  Position: (x=34, y=265)
+  Size: (width=20, height=6)
+  Confidence: 30%
+  Block: 1, Paragraph: 1, Line: 11, Word: 2
+
+Text Box 31:
+  Text: o
+  Position: (x=149, y=263)
+  Size: (width=10, height=10)
+  Confidence: 48%
+  Block: 1, Paragraph: 1, Line: 11, Word: 3
+
+Text Box 32:
+  Text: °
+  Position: (x=228, y=263)
+  Size: (width=11, height=10)
+  Confidence: 71%
+  Block: 1, Paragraph: 1, Line: 11, Word: 4
+
+Text Box 33:
+  Text: o
+  Position: (x=308, y=263)
+  Size: (width=10, height=9)
+  Confidence: 44%
+  Block: 1, Paragraph: 1, Line: 11, Word: 5
+
+Text Box 34:
+  Text: mmenecoationscis
+  Position: (x=11, y=279)
+  Size: (width=97, height=6)
+  Confidence: 0%
+  Block: 1, Paragraph: 1, Line: 12, Word: 1
+
+Text Box 35:
+  Text: °
+  Position: (x=228, y=277)
+  Size: (width=11, height=10)
+  Confidence: 36%
+  Block: 1, Paragraph: 1, Line: 12, Word: 2
+
+Text Box 36:
+  Text: emer
+  Position: (x=11, y=294)
+  Size: (width=67, height=6)
+  Confidence: 0%
+  Block: 1, Paragraph: 1, Line: 13, Word: 1
+
+Text Box 37:
+  Text: TO
+  Position: (x=149, y=291)
+  Size: (width=10, height=10)
+  Confidence: 25%
+  Block: 1, Paragraph: 1, Line: 13, Word: 2
+
+Text Box 38:
+  Text: Qo
+  Position: (x=229, y=291)
+  Size: (width=10, height=10)
+  Confidence: 15%
+  Block: 1, Paragraph: 1, Line: 13, Word: 3
+
+Text Box 39:
+  Text: cy
+  Position: (x=11, y=308)
+  Size: (width=71, height=7)
+  Confidence: 5%
+  Block: 1, Paragraph: 1, Line: 14, Word: 1
+
+Text Box 40:
+  Text: o
+  Position: (x=149, y=305)
+  Size: (width=10, height=11)
+  Confidence: 56%
+  Block: 1, Paragraph: 1, Line: 14, Word: 2
+
+Text Box 41:
+  Text: °
+  Position: (x=228, y=305)
+  Size: (width=11, height=10)
+  Confidence: 9%
+  Block: 1, Paragraph: 1, Line: 14, Word: 3
+
+Text Box 42:
+  Text: ea
+  Position: (x=11, y=323)
+  Size: (width=76, height=7)
+  Confidence: 31%
+  Block: 1, Paragraph: 1, Line: 15, Word: 1
+
+Text Box 43:
+  Text: °
+  Position: (x=149, y=319)
+  Size: (width=10, height=11)
+  Confidence: 42%
+  Block: 1, Paragraph: 1, Line: 15, Word: 2
+
+Text Box 44:
+  Text: °
+  Position: (x=228, y=319)
+  Size: (width=11, height=11)
+  Confidence: 41%
+  Block: 1, Paragraph: 1, Line: 15, Word: 3
+
+Text Box 45:
+  Text: eestor
+  Position: (x=11, y=351)
+  Size: (width=67, height=6)
+  Confidence: 20%
+  Block: 1, Paragraph: 1, Line: 16, Word: 1
+
+Text Box 46:
+  Text: 2
+  Position: (x=149, y=348)
+  Size: (width=10, height=11)
+  Confidence: 4%
+  Block: 1, Paragraph: 1, Line: 16, Word: 2
+
+Text Box 47:
+  Text: emt
+  Position: (x=11, y=366)
+  Size: (width=17, height=6)
+  Confidence: 47%
+  Block: 1, Paragraph: 1, Line: 17, Word: 1
+
+Text Box 48:
+  Text: ik
+  Position: (x=39, y=366)
+  Size: (width=32, height=6)
+  Confidence: 40%
+  Block: 1, Paragraph: 1, Line: 17, Word: 2
+
+Text Box 49:
+  Text: o
+  Position: (x=149, y=365)
+  Size: (width=10, height=10)
+  Confidence: 37%
+  Block: 1, Paragraph: 1, Line: 17, Word: 3
+
+Text Box 50:
+  Text: emda
+  Position: (x=11, y=381)
+  Size: (width=42, height=5)
+  Confidence: 42%
+  Block: 1, Paragraph: 1, Line: 18, Word: 1
+
+Text Box 51:
+  Text: oa
+  Position: (x=64, y=381)
+  Size: (width=27, height=7)
+  Confidence: 48%
+  Block: 1, Paragraph: 1, Line: 18, Word: 2
+
+Text Box 52:
+  Text: o
+  Position: (x=149, y=378)
+  Size: (width=10, height=11)
+  Confidence: 58%
+  Block: 1, Paragraph: 1, Line: 18, Word: 3
+
+Text Box 53:
+  Text: intestate
+  Position: (x=11, y=395)
+  Size: (width=58, height=6)
+  Confidence: 12%
+  Block: 1, Paragraph: 1, Line: 19, Word: 1
+
+Text Box 54:
+  Text: Ooms
+  Position: (x=81, y=397)
+  Size: (width=13, height=4)
+  Confidence: 38%
+  Block: 1, Paragraph: 1, Line: 19, Word: 2
+
+Text Box 55:
+  Text: °
+  Position: (x=149, y=393)
+  Size: (width=10, height=10)
+  Confidence: 50%
+  Block: 1, Paragraph: 1, Line: 19, Word: 3
+
+Text Box 56:
+  Text: Month
+  Position: (x=141, y=429)
+  Size: (width=25, height=29)
+  Confidence: 90%
+  Block: 1, Paragraph: 1, Line: 20, Word: 1
+
+Text Box 57:
+  Text: Noth
+  Position: (x=221, y=440)
+  Size: (width=25, height=8)
+  Confidence: 49%
+  Block: 1, Paragraph: 1, Line: 20, Word: 2
+
+Text Box 58:
+  Text: Wonth
+  Position: (x=300, y=440)
+  Size: (width=26, height=9)
+  Confidence: 69%
+  Block: 1, Paragraph: 1, Line: 20, Word: 3
+
+Text Box 59:
+  Text: |
+  Position: (x=341, y=429)
+  Size: (width=18, height=29)
+  Confidence: 35%
+  Block: 1, Paragraph: 1, Line: 20, Word: 4
+
+Text Box 60:
+  Text: 12.Month
+  Position: (x=369, y=440)
+  Size: (width=36, height=8)
+  Confidence: 12%
+  Block: 1, Paragraph: 1, Line: 20, Word: 5
+
+Text Box 61:
+  Text: toWonth
+  Position: (x=136, y=454)
+  Size: (width=36, height=8)
+  Confidence: 34%
+  Block: 1, Paragraph: 1, Line: 21, Word: 1
+
+Text Box 62:
+  Text: tomonth
+  Position: (x=216, y=453)
+  Size: (width=36, height=9)
+  Confidence: 23%
+  Block: 1, Paragraph: 1, Line: 21, Word: 2
+
+Text Box 63:
+  Text: |
+  Position: (x=267, y=442)
+  Size: (width=16, height=29)
+  Confidence: 44%
+  Block: 1, Paragraph: 1, Line: 21, Word: 3
+
+Text Box 64:
+  Text: toNonth
+  Position: (x=294, y=453)
+  Size: (width=37, height=9)
+  Confidence: 55%
+  Block: 1, Paragraph: 1, Line: 21, Word: 4
+
+Text Box 65:
+  Text: |
+  Position: (x=344, y=442)
+  Size: (width=9, height=29)
+  Confidence: 46%
+  Block: 1, Paragraph: 1, Line: 21, Word: 5
+
+Text Box 66:
+  Text: commitment
+  Position: (x=361, y=453)
+  Size: (width=52, height=8)
+  Confidence: 46%
+  Block: 1, Paragraph: 1, Line: 21, Word: 6
+
+Text Box 67:
+  Text: Teanys
+  Position: (x=69, y=467)
+  Size: (width=25, height=29)
+  Confidence: 2%
+  Block: 1, Paragraph: 1, Line: 22, Word: 1
+
+Text Box 68:
+  Text: ta
+  Position: (x=101, y=480)
+  Size: (width=10, height=6)
+  Confidence: 72%
+  Block: 1, Paragraph: 1, Line: 22, Word: 2
+
+Text Box 69:
+  Text: i
+  Position: (x=226, y=488)
+  Size: (width=22, height=8)
+  Confidence: 25%
+  Block: 1, Paragraph: 1, Line: 22, Word: 3
+
+Text Box 70:
+  Text: r
+  Position: (x=301, y=490)
+  Size: (width=2, height=3)
+  Confidence: 0%
+  Block: 1, Paragraph: 1, Line: 22, Word: 4
+
+Text Box 71:
+  Text: J
+  Position: (x=387, y=490)
+  Size: (width=9, height=4)
+  Confidence: 42%
+  Block: 1, Paragraph: 1, Line: 22, Word: 5
+
+Text Box 72:
+  Text: Total
+  Position: (x=77, y=535)
+  Size: (width=35, height=13)
+  Confidence: 50%
+  Block: 1, Paragraph: 1, Line: 23, Word: 1
+
+Text Box 73:
+  Text: 51%,
+  Position: (x=142, y=534)
+  Size: (width=27, height=16)
+  Confidence: 50%
+  Block: 1, Paragraph: 1, Line: 23, Word: 2
+
+Text Box 74:
+  Text: 518.
+  Position: (x=220, y=534)
+  Size: (width=26, height=16)
+  Confidence: 30%
+  Block: 1, Paragraph: 1, Line: 23, Word: 3
+
+Text Box 75:
+  Text: S44,
+  Position: (x=297, y=534)
+  Size: (width=32, height=16)
+  Confidence: 0%
+  Block: 1, Paragraph: 1, Line: 23, Word: 4
+
+Text Box 76:
+  Text: SAAR,
+  Position: (x=369, y=535)
+  Size: (width=32, height=16)
+  Confidence: 21%
+  Block: 1, Paragraph: 1, Line: 23, Word: 5
+
+Text Box 77:
+  Text: ‘crunchgainesville
+  Position: (x=16, y=605)
+  Size: (width=109, height=13)
+  Confidence: 26%
+  Block: 1, Paragraph: 1, Line: 24, Word: 1
+
+Text Box 78:
+  Text: SQUATober
+  Position: (x=130, y=605)
+  Size: (width=69, height=11)
+  Confidence: 92%
+  Block: 1, Paragraph: 1, Line: 24, Word: 2
+
+Text Box 79:
+  Text: starts
+  Position: (x=203, y=606)
+  Size: (width=33, height=9)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 24, Word: 3
+
+Text Box 80:
+  Text: now!
+  Position: (x=241, y=605)
+  Size: (width=28, height=10)
+  Confidence: 93%
+  Block: 1, Paragraph: 1, Line: 24, Word: 4
+
+Text Box 81:
+  Text: @&
+  Position: (x=276, y=603)
+  Size: (width=16, height=15)
+  Confidence: 35%
+  Block: 1, Paragraph: 1, Line: 24, Word: 5
+
+Text Box 82:
+  Text: $1
+  Position: (x=298, y=604)
+  Size: (width=12, height=12)
+  Confidence: 88%
+  Block: 1, Paragraph: 1, Line: 24, Word: 6
+
+Text Box 83:
+  Text: to
+  Position: (x=316, y=606)
+  Size: (width=13, height=9)
+  Confidence: 88%
+  Block: 1, Paragraph: 1, Line: 24, Word: 7
+
+Text Box 84:
+  Text: join
+  Position: (x=331, y=608)
+  Size: (width=24, height=10)
+  Confidence: 89%
+  Block: 1, Paragraph: 1, Line: 24, Word: 8
+
+Text Box 85:
+  Text: +
+  Position: (x=361, y=607)
+  Size: (width=7, height=7)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 24, Word: 9
+
+Text Box 86:
+  Text: ALL
+  Position: (x=373, y=605)
+  Size: (width=23, height=10)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 24, Word: 10
+
+Text Box 87:
+  Text: October
+  Position: (x=16, y=623)
+  Size: (width=51, height=10)
+  Confidence: 72%
+  Block: 1, Paragraph: 1, Line: 25, Word: 1
+
+Text Box 88:
+  Text: FREE
+  Position: (x=71, y=623)
+  Size: (width=28, height=10)
+  Confidence: 82%
+  Block: 1, Paragraph: 1, Line: 25, Word: 2
+
+Text Box 89:
+  Text: with
+  Position: (x=104, y=623)
+  Size: (width=25, height=10)
+  Confidence: 93%
+  Block: 1, Paragraph: 1, Line: 25, Word: 3
+
+Text Box 90:
+  Text: Code
+  Position: (x=134, y=623)
+  Size: (width=32, height=10)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 25, Word: 4
+
+Text Box 91:
+  Text: SQUAT.
+  Position: (x=170, y=623)
+  Size: (width=45, height=11)
+  Confidence: 95%
+  Block: 1, Paragraph: 1, Line: 25, Word: 5
+
+Text Box 92:
+  Text: Join
+  Position: (x=219, y=623)
+  Size: (width=24, height=10)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 25, Word: 6
+
+Text Box 93:
+  Text: online
+  Position: (x=248, y=623)
+  Size: (width=38, height=10)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 25, Word: 7
+
+Text Box 94:
+  Text: now
+  Position: (x=290, y=626)
+  Size: (width=26, height=7)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 25, Word: 8
+
+Text Box 95:
+  Text: at
+  Position: (x=320, y=624)
+  Size: (width=11, height=9)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 25, Word: 9
+
+Text Box 96:
+  Text: ge...
+  Position: (x=337, y=625)
+  Size: (width=40, height=11)
+  Confidence: 10%
+  Block: 1, Paragraph: 1, Line: 25, Word: 10
+
+Text Box 97:
+  Text: more
+  Position: (x=382, y=626)
+  Size: (width=32, height=7)
+  Confidence: 82%
+  Block: 1, Paragraph: 1, Line: 25, Word: 11

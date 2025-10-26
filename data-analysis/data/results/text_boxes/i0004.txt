@@ -1,0 +1,435 @@
+Total text boxes detected: 62
+
+Text Box 1:
+  Text: Mercedes-Benz
+  Position: (x=63, y=22)
+  Size: (width=116, height=12)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 1, Word: 1
+
+Text Box 2:
+  Text: USA
+  Position: (x=185, y=22)
+  Size: (width=32, height=12)
+  Confidence: 95%
+  Block: 1, Paragraph: 1, Line: 1, Word: 2
+
+Text Box 3:
+  Text: x:
+  Position: (x=347, y=20)
+  Size: (width=58, height=25)
+  Confidence: 70%
+  Block: 1, Paragraph: 1, Line: 1, Word: 3
+
+Text Box 4:
+  Text: Sponsored
+  Position: (x=64, y=44)
+  Size: (width=70, height=13)
+  Confidence: 93%
+  Block: 1, Paragraph: 1, Line: 2, Word: 1
+
+Text Box 5:
+  Text: .
+  Position: (x=398, y=41)
+  Size: (width=7, height=6)
+  Confidence: 30%
+  Block: 1, Paragraph: 1, Line: 2, Word: 2
+
+Text Box 6:
+  Text: Lease
+  Position: (x=10, y=76)
+  Size: (width=41, height=12)
+  Confidence: 95%
+  Block: 1, Paragraph: 1, Line: 3, Word: 1
+
+Text Box 7:
+  Text: the
+  Position: (x=57, y=76)
+  Size: (width=21, height=12)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 3, Word: 2
+
+Text Box 8:
+  Text: 2026
+  Position: (x=84, y=76)
+  Size: (width=34, height=12)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 3, Word: 3
+
+Text Box 9:
+  Text: GLE
+  Position: (x=124, y=76)
+  Size: (width=30, height=12)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 3, Word: 4
+
+Text Box 10:
+  Text: 450
+  Position: (x=160, y=76)
+  Size: (width=25, height=12)
+  Confidence: 93%
+  Block: 1, Paragraph: 1, Line: 3, Word: 5
+
+Text Box 11:
+  Text: 4MATIC
+  Position: (x=191, y=76)
+  Size: (width=54, height=12)
+  Confidence: 75%
+  Block: 1, Paragraph: 1, Line: 3, Word: 6
+
+Text Box 12:
+  Text: Coupe:
+  Position: (x=254, y=76)
+  Size: (width=45, height=15)
+  Confidence: 93%
+  Block: 1, Paragraph: 1, Line: 3, Word: 7
+
+Text Box 13:
+  Text: $999/mo
+  Position: (x=309, y=76)
+  Size: (width=61, height=12)
+  Confidence: 72%
+  Block: 1, Paragraph: 1, Line: 3, Word: 8
+
+Text Box 14:
+  Text: for
+  Position: (x=376, y=77)
+  Size: (width=16, height=11)
+  Confidence: 94%
+  Block: 1, Paragraph: 1, Line: 3, Word: 9
+
+Text Box 15:
+  Text: 36
+  Position: (x=400, y=76)
+  Size: (width=15, height=12)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 3, Word: 10
+
+Text Box 16:
+  Text: mos,
+  Position: (x=9, y=100)
+  Size: (width=29, height=9)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 4, Word: 1
+
+Text Box 17:
+  Text: $7,293
+  Position: (x=48, y=96)
+  Size: (width=48, height=14)
+  Confidence: 92%
+  Block: 1, Paragraph: 1, Line: 4, Word: 2
+
+Text Box 18:
+  Text: due
+  Position: (x=101, y=97)
+  Size: (width=26, height=12)
+  Confidence: 92%
+  Block: 1, Paragraph: 1, Line: 4, Word: 3
+
+Text Box 19:
+  Text: at
+  Position: (x=133, y=97)
+  Size: (width=12, height=12)
+  Confidence: 93%
+  Block: 1, Paragraph: 1, Line: 4, Word: 4
+
+Text Box 20:
+  Text: signing*.
+  Position: (x=151, y=99)
+  Size: (width=54, height=13)
+  Confidence: 66%
+  Block: 1, Paragraph: 1, Line: 4, Word: 5
+
+Text Box 21:
+  Text: See
+  Position: (x=217, y=97)
+  Size: (width=26, height=12)
+  Confidence: 88%
+  Block: 1, Paragraph: 1, Line: 4, Word: 6
+
+Text Box 22:
+  Text: offer
+  Position: (x=249, y=97)
+  Size: (width=29, height=12)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 4, Word: 7
+
+Text Box 23:
+  Text: details
+  Position: (x=285, y=97)
+  Size: (width=45, height=12)
+  Confidence: 91%
+  Block: 1, Paragraph: 1, Line: 4, Word: 8
+
+Text Box 24:
+  Text: the
+  Position: (x=34, y=172)
+  Size: (width=41, height=24)
+  Confidence: 89%
+  Block: 1, Paragraph: 1, Line: 5, Word: 1
+
+Text Box 25:
+  Text: 2026
+  Position: (x=87, y=173)
+  Size: (width=48, height=23)
+  Confidence: 89%
+  Block: 1, Paragraph: 1, Line: 5, Word: 2
+
+Text Box 26:
+  Text: GLE
+  Position: (x=144, y=157)
+  Size: (width=77, height=39)
+  Confidence: 95%
+  Block: 1, Paragraph: 1, Line: 5, Word: 3
+
+Text Box 27:
+  Text: 450
+  Position: (x=234, y=157)
+  Size: (width=73, height=39)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 5, Word: 4
+
+Text Box 28:
+  Text: $
+  Position: (x=35, y=258)
+  Size: (width=14, height=25)
+  Confidence: 91%
+  Block: 1, Paragraph: 1, Line: 6, Word: 1
+
+Text Box 29:
+  Text: mo
+  Position: (x=173, y=270)
+  Size: (width=20, height=9)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 6, Word: 2
+
+Text Box 30:
+  Text: for
+  Position: (x=199, y=267)
+  Size: (width=18, height=12)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 6, Word: 3
+
+Text Box 31:
+  Text: 36
+  Position: (x=223, y=267)
+  Size: (width=17, height=12)
+  Confidence: 93%
+  Block: 1, Paragraph: 1, Line: 6, Word: 4
+
+Text Box 32:
+  Text: months,
+  Position: (x=246, y=267)
+  Size: (width=55, height=14)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 6, Word: 5
+
+Text Box 33:
+  Text: $7,293
+  Position: (x=172, y=285)
+  Size: (width=49, height=15)
+  Confidence: 94%
+  Block: 1, Paragraph: 1, Line: 7, Word: 1
+
+Text Box 34:
+  Text: due
+  Position: (x=227, y=286)
+  Size: (width=25, height=12)
+  Confidence: 91%
+  Block: 1, Paragraph: 1, Line: 7, Word: 2
+
+Text Box 35:
+  Text: at
+  Position: (x=258, y=287)
+  Size: (width=12, height=11)
+  Confidence: 95%
+  Block: 1, Paragraph: 1, Line: 7, Word: 3
+
+Text Box 36:
+  Text: lease
+  Position: (x=276, y=286)
+  Size: (width=35, height=12)
+  Confidence: 91%
+  Block: 1, Paragraph: 1, Line: 7, Word: 4
+
+Text Box 37:
+  Text: signing"
+  Position: (x=317, y=286)
+  Size: (width=56, height=15)
+  Confidence: 6%
+  Block: 1, Paragraph: 1, Line: 7, Word: 5
+
+Text Box 38:
+  Text: i
+  Position: (x=0, y=361)
+  Size: (width=5, height=10)
+  Confidence: 86%
+  Block: 1, Paragraph: 1, Line: 8, Word: 1
+
+Text Box 39:
+  Text: eg
+  Position: (x=172, y=364)
+  Size: (width=154, height=12)
+  Confidence: 42%
+  Block: 1, Paragraph: 1, Line: 8, Word: 2
+
+Text Box 40:
+  Text: SSS
+  Position: (x=107, y=364)
+  Size: (width=281, height=29)
+  Confidence: 55%
+  Block: 1, Paragraph: 1, Line: 9, Word: 1
+
+Text Box 41:
+  Text: aN
+  Position: (x=34, y=392)
+  Size: (width=20, height=11)
+  Confidence: 48%
+  Block: 1, Paragraph: 1, Line: 10, Word: 1
+
+Text Box 42:
+  Text: ES
+  Position: (x=147, y=398)
+  Size: (width=18, height=6)
+  Confidence: 0%
+  Block: 1, Paragraph: 1, Line: 10, Word: 2
+
+Text Box 43:
+  Text: ai
+  Position: (x=355, y=396)
+  Size: (width=32, height=4)
+  Confidence: 41%
+  Block: 1, Paragraph: 1, Line: 10, Word: 3
+
+Text Box 44:
+  Text: ~~
+  Position: (x=132, y=403)
+  Size: (width=38, height=15)
+  Confidence: 0%
+  Block: 1, Paragraph: 1, Line: 11, Word: 1
+
+Text Box 45:
+  Text: ane
+  Position: (x=193, y=399)
+  Size: (width=36, height=39)
+  Confidence: 25%
+  Block: 1, Paragraph: 1, Line: 11, Word: 2
+
+Text Box 46:
+  Text: ey,
+  Position: (x=260, y=403)
+  Size: (width=69, height=25)
+  Confidence: 26%
+  Block: 1, Paragraph: 1, Line: 11, Word: 3
+
+Text Box 47:
+  Text: —
+  Position: (x=376, y=410)
+  Size: (width=54, height=2)
+  Confidence: 70%
+  Block: 1, Paragraph: 1, Line: 11, Word: 4
+
+Text Box 48:
+  Text: \
+  Position: (x=42, y=445)
+  Size: (width=1, height=3)
+  Confidence: 23%
+  Block: 1, Paragraph: 1, Line: 12, Word: 1
+
+Text Box 49:
+  Text: ~~)
+  Position: (x=158, y=434)
+  Size: (width=3, height=3)
+  Confidence: 0%
+  Block: 1, Paragraph: 1, Line: 12, Word: 2
+
+Text Box 50:
+  Text: Nek
+  Position: (x=356, y=437)
+  Size: (width=42, height=8)
+  Confidence: 52%
+  Block: 1, Paragraph: 1, Line: 12, Word: 3
+
+Text Box 51:
+  Text: a
+  Position: (x=194, y=453)
+  Size: (width=85, height=33)
+  Confidence: 45%
+  Block: 1, Paragraph: 1, Line: 13, Word: 1
+
+Text Box 52:
+  Text: —
+  Position: (x=365, y=467)
+  Size: (width=65, height=15)
+  Confidence: 72%
+  Block: 1, Paragraph: 1, Line: 13, Word: 2
+
+Text Box 53:
+  Text: Opti
+  Position: (x=140, y=515)
+  Size: (width=25, height=11)
+  Confidence: 72%
+  Block: 1, Paragraph: 1, Line: 14, Word: 1
+
+Text Box 54:
+  Text: .
+  Position: (x=238, y=518)
+  Size: (width=1, height=5)
+  Confidence: 41%
+  Block: 1, Paragraph: 1, Line: 14, Word: 2
+
+Text Box 55:
+  Text: The
+  Position: (x=18, y=577)
+  Size: (width=23, height=10)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 15, Word: 1
+
+Text Box 56:
+  Text: 2026
+  Position: (x=46, y=577)
+  Size: (width=30, height=10)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 15, Word: 2
+
+Text Box 57:
+  Text: GLE
+  Position: (x=81, y=577)
+  Size: (width=27, height=10)
+  Confidence: 95%
+  Block: 1, Paragraph: 1, Line: 15, Word: 3
+
+Text Box 58:
+  Text: 450
+  Position: (x=113, y=577)
+  Size: (width=22, height=10)
+  Confidence: 92%
+  Block: 1, Paragraph: 1, Line: 15, Word: 4
+
+Text Box 59:
+  Text: 4MATIC
+  Position: (x=140, y=577)
+  Size: (width=50, height=10)
+  Confidence: 83%
+  Block: 1, Paragraph: 1, Line: 15, Word: 5
+
+Text Box 60:
+  Text: Learn
+  Position: (x=327, y=578)
+  Size: (width=36, height=10)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 15, Word: 6
+
+Text Box 61:
+  Text: more
+  Position: (x=369, y=580)
+  Size: (width=33, height=8)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 15, Word: 7
+
+Text Box 62:
+  Text: Coupe
+  Position: (x=17, y=593)
+  Size: (width=42, height=13)
+  Confidence: 93%
+  Block: 1, Paragraph: 1, Line: 16, Word: 1

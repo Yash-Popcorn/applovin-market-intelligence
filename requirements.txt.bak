@@ -92,7 +92,7 @@ plotly==6.3.1
 pooch==1.8.2
 posthog==5.4.0
 proto-plus==1.26.1
-protobuf>=4.25.3,<5.0.0
+protobuf==6.33.0
 pyasn1==0.6.1
 pyasn1_modules==0.4.2
 pybase64==1.4.2
@@ -141,6 +141,9 @@ watchfiles==1.1.1
 websocket-client==1.9.0
 websockets==15.0.1
 zipp==3.23.0
+torch==2.5.1+cu124
+torchaudio==2.5.1+cu124
+torchvision==0.20.1+cu124
 demucs==4.0.1
 imageio-ffmpeg==0.5.1
 pytesseract==0.3.13

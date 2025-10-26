@@ -1,0 +1,1867 @@
+Second 0:
+  Total text boxes: 39
+  Text Box 1:
+    Text: bi
+    Position: (x=5, y=37)
+    Size: (width=10, height=28)
+    Confidence: 26%
+  Text Box 2:
+    Text: Rem
+    Position: (x=313, y=40)
+    Size: (width=31, height=17)
+    Confidence: 10%
+  Text Box 3:
+    Text: tee
+    Position: (x=435, y=56)
+    Size: (width=2, height=2)
+    Confidence: 28%
+  Text Box 4:
+    Text: fo
+    Position: (x=462, y=56)
+    Size: (width=12, height=2)
+    Confidence: 12%
+  Text Box 5:
+    Text: Se
+    Position: (x=497, y=43)
+    Size: (width=46, height=17)
+    Confidence: 27%
+  Text Box 6:
+    Text: aS
+    Position: (x=577, y=43)
+    Size: (width=65, height=16)
+    Confidence: 51%
+  Text Box 7:
+    Text: *
+    Position: (x=706, y=56)
+    Size: (width=2, height=2)
+    Confidence: 0%
+  Text Box 8:
+    Text: —-
+    Position: (x=0, y=120)
+    Size: (width=37, height=8)
+    Confidence: 0%
+  Text Box 9:
+    Text: Be
+    Position: (x=421, y=117)
+    Size: (width=25, height=12)
+    Confidence: 7%
+  Text Box 10:
+    Text: ee
+    Position: (x=507, y=115)
+    Size: (width=78, height=17)
+    Confidence: 23%
+  Text Box 11:
+    Text: ee
+    Position: (x=641, y=119)
+    Size: (width=37, height=13)
+    Confidence: 41%
+  Text Box 12:
+    Text: ©
+    Position: (x=711, y=117)
+    Size: (width=7, height=13)
+    Confidence: 30%
+  Text Box 13:
+    Text: Pi
+    Position: (x=5, y=125)
+    Size: (width=25, height=34)
+    Confidence: 38%
+  Text Box 14:
+    Text: Po
+    Position: (x=433, y=130)
+    Size: (width=12, height=10)
+    Confidence: 16%
+  Text Box 15:
+    Text: ge
+    Position: (x=481, y=130)
+    Size: (width=22, height=13)
+    Confidence: 20%
+  Text Box 16:
+    Text: Aa
+    Position: (x=518, y=121)
+    Size: (width=22, height=37)
+    Confidence: 41%
+  Text Box 17:
+    Text: he.
+    Position: (x=564, y=121)
+    Size: (width=30, height=37)
+    Confidence: 35%
+  Text Box 18:
+    Text: oe
+    Position: (x=607, y=130)
+    Size: (width=113, height=24)
+    Confidence: 27%
+  Text Box 19:
+    Text: ie
+    Position: (x=0, y=145)
+    Size: (width=74, height=45)
+    Confidence: 22%
+  Text Box 20:
+    Text: age
+    Position: (x=424, y=110)
+    Size: (width=167, height=69)
+    Confidence: 6%
+  Text Box 21:
+    Text: wk
+    Position: (x=427, y=224)
+    Size: (width=94, height=39)
+    Confidence: 27%
+  Text Box 22:
+    Text: =
+    Position: (x=535, y=235)
+    Size: (width=20, height=21)
+    Confidence: 43%
+  Text Box 23:
+    Text: sm
+    Position: (x=0, y=266)
+    Size: (width=30, height=22)
+    Confidence: 7%
+  Text Box 24:
+    Text: \
+    Position: (x=135, y=269)
+    Size: (width=17, height=15)
+    Confidence: 49%
+  Text Box 25:
+    Text: Li
+    Position: (x=429, y=262)
+    Size: (width=23, height=21)
+    Confidence: 25%
+  Text Box 26:
+    Text: ee
+    Position: (x=0, y=282)
+    Size: (width=418, height=18)
+    Confidence: 38%
+  Text Box 27:
+    Text: eee
+    Position: (x=341, y=267)
+    Size: (width=77, height=44)
+    Confidence: 39%
+  Text Box 28:
+    Text: aday.
+    Position: (x=325, y=307)
+    Size: (width=224, height=75)
+    Confidence: 46%
+  Text Box 29:
+    Text: ¥
+    Position: (x=435, y=365)
+    Size: (width=13, height=15)
+    Confidence: 2%
+  Text Box 30:
+    Text: q
+    Position: (x=77, y=381)
+    Size: (width=11, height=27)
+    Confidence: 64%
+  Text Box 31:
+    Text: ents
+    Position: (x=363, y=390)
+    Size: (width=73, height=24)
+    Confidence: 96%
+  Text Box 32:
+    Text: |
+    Position: (x=0, y=406)
+    Size: (width=9, height=66)
+    Confidence: 76%
+  Text Box 33:
+    Text: ee
+    Position: (x=130, y=446)
+    Size: (width=58, height=16)
+    Confidence: 36%
+  Text Box 34:
+    Text: Pro)
+    Position: (x=212, y=440)
+    Size: (width=58, height=25)
+    Confidence: 7%
+  Text Box 35:
+    Text: .
+    Position: (x=283, y=446)
+    Size: (width=8, height=7)
+    Confidence: 0%
+  Text Box 36:
+    Text: :
+    Position: (x=346, y=456)
+    Size: (width=14, height=7)
+    Confidence: 0%
+  Text Box 37:
+    Text: Co
+    Position: (x=92, y=471)
+    Size: (width=8, height=6)
+    Confidence: 0%
+  Text Box 38:
+    Text: eS
+    Position: (x=208, y=466)
+    Size: (width=119, height=17)
+    Confidence: 5%
+  Text Box 39:
+    Text: MEPS
+    Position: (x=356, y=463)
+    Size: (width=32, height=10)
+    Confidence: 34%
+
+Second 1:
+  Total text boxes: 11
+  Text Box 1:
+    Text: a
+    Position: (x=64, y=0)
+    Size: (width=77, height=30)
+    Confidence: 15%
+  Text Box 2:
+    Text: SS.
+    Position: (x=268, y=0)
+    Size: (width=142, height=34)
+    Confidence: 0%
+  Text Box 3:
+    Text: Oe
+    Position: (x=537, y=0)
+    Size: (width=183, height=61)
+    Confidence: 27%
+  Text Box 4:
+    Text: ‘o
+    Position: (x=12, y=237)
+    Size: (width=44, height=16)
+    Confidence: 0%
+  Text Box 5:
+    Text: aday.|
+    Position: (x=334, y=213)
+    Size: (width=216, height=74)
+    Confidence: 35%
+  Text Box 6:
+    Text: 4
+    Position: (x=602, y=229)
+    Size: (width=37, height=20)
+    Confidence: 35%
+  Text Box 7:
+    Text: *
+    Position: (x=48, y=290)
+    Size: (width=20, height=1)
+    Confidence: 7%
+  Text Box 8:
+    Text: _Pataday.
+    Position: (x=106, y=235)
+    Size: (width=443, height=71)
+    Confidence: 32%
+  Text Box 9:
+    Text: ;
+    Position: (x=161, y=304)
+    Size: (width=5, height=2)
+    Confidence: 3%
+  Text Box 10:
+    Text: —
+    Position: (x=199, y=319)
+    Size: (width=58, height=32)
+    Confidence: 63%
+  Text Box 11:
+    Text: cc
+    Position: (x=288, y=313)
+    Size: (width=160, height=89)
+    Confidence: 36%
+
+Second 2:
+  Total text boxes: 11
+  Text Box 1:
+    Text: '
+    Position: (x=40, y=251)
+    Size: (width=2, height=2)
+    Confidence: 9%
+  Text Box 2:
+    Text: _
+    Position: (x=120, y=200)
+    Size: (width=38, height=112)
+    Confidence: 27%
+  Text Box 3:
+    Text: Pataday.|
+    Position: (x=215, y=204)
+    Size: (width=342, height=99)
+    Confidence: 56%
+  Text Box 4:
+    Text: a7”
+    Position: (x=686, y=204)
+    Size: (width=34, height=104)
+    Confidence: 27%
+  Text Box 5:
+    Text: =
+    Position: (x=24, y=287)
+    Size: (width=44, height=7)
+    Confidence: 37%
+  Text Box 6:
+    Text: ¥)
+    Position: (x=426, y=288)
+    Size: (width=30, height=37)
+    Confidence: 0%
+  Text Box 7:
+    Text: Ss
+    Position: (x=533, y=295)
+    Size: (width=22, height=10)
+    Confidence: 0%
+  Text Box 8:
+    Text: —
+    Position: (x=12, y=311)
+    Size: (width=29, height=7)
+    Confidence: 40%
+  Text Box 9:
+    Text: —
+    Position: (x=199, y=319)
+    Size: (width=64, height=36)
+    Confidence: 41%
+  Text Box 10:
+    Text: presents
+    Position: (x=288, y=304)
+    Size: (width=143, height=63)
+    Confidence: 22%
+  Text Box 11:
+    Text: |
+    Position: (x=441, y=322)
+    Size: (width=9, height=41)
+    Confidence: 70%
+
+Second 3:
+  Total text boxes: 2
+  Text Box 1:
+    Text: 2
+    Position: (x=0, y=127)
+    Size: (width=315, height=499)
+    Confidence: 52%
+  Text Box 2:
+    Text: G
+    Position: (x=416, y=0)
+    Size: (width=304, height=350)
+    Confidence: 42%
+
+Second 4:
+  Total text boxes: 1
+  Text Box 1:
+    Text: ai
+    Position: (x=508, y=0)
+    Size: (width=212, height=41)
+    Confidence: 23%
+
+Second 5:
+  Total text boxes: 19
+  Text Box 1:
+    Text: 7
+    Position: (x=611, y=52)
+    Size: (width=109, height=56)
+    Confidence: 4%
+  Text Box 2:
+    Text: Lag
+    Position: (x=32, y=136)
+    Size: (width=119, height=26)
+    Confidence: 31%
+  Text Box 3:
+    Text: oS
+    Position: (x=547, y=125)
+    Size: (width=107, height=53)
+    Confidence: 36%
+  Text Box 4:
+    Text: 4
+    Position: (x=102, y=195)
+    Size: (width=3, height=4)
+    Confidence: 66%
+  Text Box 5:
+    Text: =
+    Position: (x=610, y=179)
+    Size: (width=45, height=43)
+    Confidence: 28%
+  Text Box 6:
+    Text: 4
+    Position: (x=73, y=290)
+    Size: (width=37, height=23)
+    Confidence: 47%
+  Text Box 7:
+    Text: _
+    Position: (x=368, y=281)
+    Size: (width=46, height=21)
+    Confidence: 25%
+  Text Box 8:
+    Text: '
+    Position: (x=69, y=469)
+    Size: (width=3, height=1)
+    Confidence: 9%
+  Text Box 9:
+    Text: ;
+    Position: (x=258, y=472)
+    Size: (width=5, height=2)
+    Confidence: 82%
+  Text Box 10:
+    Text: U
+    Position: (x=451, y=468)
+    Size: (width=16, height=33)
+    Confidence: 86%
+  Text Box 11:
+    Text: .
+    Position: (x=73, y=644)
+    Size: (width=10, height=14)
+    Confidence: 28%
+  Text Box 12:
+    Text: i
+    Position: (x=205, y=626)
+    Size: (width=17, height=31)
+    Confidence: 0%
+  Text Box 13:
+    Text: g
+    Position: (x=308, y=630)
+    Size: (width=25, height=33)
+    Confidence: 0%
+  Text Box 14:
+    Text: /
+    Position: (x=583, y=651)
+    Size: (width=5, height=9)
+    Confidence: 65%
+  Text Box 15:
+    Text: 4%
+    Position: (x=81, y=666)
+    Size: (width=40, height=20)
+    Confidence: 30%
+  Text Box 16:
+    Text: Bees,
+    Position: (x=183, y=652)
+    Size: (width=138, height=59)
+    Confidence: 27%
+  Text Box 17:
+    Text: [
+    Position: (x=376, y=578)
+    Size: (width=54, height=142)
+    Confidence: 57%
+  Text Box 18:
+    Text: ‘oP
+    Position: (x=578, y=657)
+    Size: (width=74, height=63)
+    Confidence: 71%
+  Text Box 19:
+    Text: &
+    Position: (x=687, y=681)
+    Size: (width=25, height=5)
+    Confidence: 0%
+
+Second 6:
+  Total text boxes: 4
+  Text Box 1:
+    Text: J
+    Position: (x=0, y=0)
+    Size: (width=40, height=86)
+    Confidence: 54%
+  Text Box 2:
+    Text: .
+    Position: (x=478, y=165)
+    Size: (width=4, height=3)
+    Confidence: 22%
+  Text Box 3:
+    Text: =
+    Position: (x=40, y=0)
+    Size: (width=674, height=609)
+    Confidence: 62%
+  Text Box 4:
+    Text: ait
+    Position: (x=10, y=542)
+    Size: (width=446, height=178)
+    Confidence: 32%
+
+Second 7:
+  Total text boxes: 16
+  Text Box 1:
+    Text: EXTRA
+    Position: (x=253, y=157)
+    Size: (width=72, height=17)
+    Confidence: 95%
+  Text Box 2:
+    Text: STRENGTH
+    Position: (x=331, y=156)
+    Size: (width=121, height=17)
+    Confidence: 95%
+  Text Box 3:
+    Text: Pataday.
+    Position: (x=254, y=192)
+    Size: (width=220, height=58)
+    Confidence: 87%
+  Text Box 4:
+    Text: ONCE
+    Position: (x=254, y=255)
+    Size: (width=61, height=17)
+    Confidence: 96%
+  Text Box 5:
+    Text: DAILY
+    Position: (x=324, y=254)
+    Size: (width=65, height=17)
+    Confidence: 96%
+  Text Box 6:
+    Text: RELIEF
+    Position: (x=397, y=254)
+    Size: (width=74, height=16)
+    Confidence: 96%
+  Text Box 7:
+    Text: .
+    Position: (x=552, y=250)
+    Size: (width=2, height=3)
+    Confidence: 13%
+  Text Box 8:
+    Text: (o
+    Position: (x=168, y=324)
+    Size: (width=48, height=56)
+    Confidence: 30%
+  Text Box 9:
+    Text: Eye
+    Position: (x=256, y=336)
+    Size: (width=32, height=25)
+    Confidence: 96%
+  Text Box 10:
+    Text: Allergy
+    Position: (x=294, y=335)
+    Size: (width=68, height=26)
+    Confidence: 96%
+  Text Box 11:
+    Text: Itch
+    Position: (x=368, y=334)
+    Size: (width=35, height=21)
+    Confidence: 95%
+  Text Box 12:
+    Text: Relief
+    Position: (x=410, y=333)
+    Size: (width=55, height=21)
+    Confidence: 96%
+  Text Box 13:
+    Text: 4
+    Position: (x=607, y=321)
+    Size: (width=22, height=35)
+    Confidence: 96%
+  Text Box 14:
+    Text: 1
+    Position: (x=488, y=537)
+    Size: (width=5, height=34)
+    Confidence: 48%
+  Text Box 15:
+    Text: Alcon
+    Position: (x=258, y=578)
+    Size: (width=69, height=19)
+    Confidence: 96%
+  Text Box 16:
+    Text: )
+    Position: (x=491, y=590)
+    Size: (width=3, height=7)
+    Confidence: 24%
+
+Second 8:
+  Total text boxes: 21
+  Text Box 1:
+    Text: —
+    Position: (x=0, y=0)
+    Size: (width=30, height=11)
+    Confidence: 69%
+  Text Box 2:
+    Text: EXTRA
+    Position: (x=245, y=132)
+    Size: (width=79, height=19)
+    Confidence: 95%
+  Text Box 3:
+    Text: STRENGTH
+    Position: (x=331, y=131)
+    Size: (width=132, height=19)
+    Confidence: 95%
+  Text Box 4:
+    Text: Pataday.
+    Position: (x=246, y=170)
+    Size: (width=241, height=65)
+    Confidence: 76%
+  Text Box 5:
+    Text: ONCE
+    Position: (x=246, y=240)
+    Size: (width=67, height=18)
+    Confidence: 95%
+  Text Box 6:
+    Text: DAILY
+    Position: (x=323, y=239)
+    Size: (width=70, height=19)
+    Confidence: 95%
+  Text Box 7:
+    Text: RELIEF
+    Position: (x=403, y=238)
+    Size: (width=81, height=19)
+    Confidence: 96%
+  Text Box 8:
+    Text: ‘
+    Position: (x=573, y=233)
+    Size: (width=7, height=7)
+    Confidence: 34%
+  Text Box 9:
+    Text: can
+    Position: (x=151, y=310)
+    Size: (width=62, height=67)
+    Confidence: 38%
+  Text Box 10:
+    Text: Eye
+    Position: (x=248, y=329)
+    Size: (width=32, height=28)
+    Confidence: 66%
+  Text Box 11:
+    Text: Allergy
+    Position: (x=289, y=327)
+    Size: (width=120, height=29)
+    Confidence: 66%
+  Text Box 12:
+    Text: Itch
+    Position: (x=372, y=318)
+    Size: (width=36, height=48)
+    Confidence: 94%
+  Text Box 13:
+    Text: Relief
+    Position: (x=417, y=326)
+    Size: (width=60, height=23)
+    Confidence: 45%
+  Text Box 14:
+    Text: |
+    Position: (x=513, y=349)
+    Size: (width=1, height=13)
+    Confidence: 45%
+  Text Box 15:
+    Text: 4
+    Position: (x=636, y=312)
+    Size: (width=22, height=39)
+    Confidence: 88%
+  Text Box 16:
+    Text: 24D
+    Position: (x=266, y=396)
+    Size: (width=58, height=27)
+    Confidence: 50%
+  Text Box 17:
+    Text: lretvander-
+    Position: (x=349, y=393)
+    Size: (width=106, height=31)
+    Confidence: 0%
+  Text Box 18:
+    Text: Polen
+    Position: (x=465, y=415)
+    Size: (width=5, height=8)
+    Confidence: 2%
+  Text Box 19:
+    Text: '
+    Position: (x=676, y=424)
+    Size: (width=2, height=2)
+    Confidence: 24%
+  Text Box 20:
+    Text: Alcon
+    Position: (x=249, y=595)
+    Size: (width=77, height=21)
+    Confidence: 96%
+  Text Box 21:
+    Text: —
+    Position: (x=0, y=706)
+    Size: (width=151, height=14)
+    Confidence: 47%
+
+Second 9:
+  Total text boxes: 18
+  Text Box 1:
+    Text: EXTRA
+    Position: (x=231, y=104)
+    Size: (width=88, height=20)
+    Confidence: 96%
+  Text Box 2:
+    Text: STRENGTH
+    Position: (x=327, y=102)
+    Size: (width=148, height=21)
+    Confidence: 95%
+  Text Box 3:
+    Text: Pataday.
+    Position: (x=232, y=146)
+    Size: (width=269, height=72)
+    Confidence: 86%
+  Text Box 4:
+    Text: ii
+    Position: (x=592, y=177)
+    Size: (width=9, height=32)
+    Confidence: 0%
+  Text Box 5:
+    Text: ONCE
+    Position: (x=232, y=224)
+    Size: (width=75, height=20)
+    Confidence: 96%
+  Text Box 6:
+    Text: DAILY
+    Position: (x=318, y=223)
+    Size: (width=79, height=21)
+    Confidence: 95%
+  Text Box 7:
+    Text: RELIEF
+    Position: (x=407, y=222)
+    Size: (width=91, height=21)
+    Confidence: 95%
+  Text Box 8:
+    Text: \
+    Position: (x=597, y=225)
+    Size: (width=83, height=84)
+    Confidence: 71%
+  Text Box 9:
+    Text: fo
+    Position: (x=128, y=305)
+    Size: (width=62, height=62)
+    Confidence: 52%
+  Text Box 10:
+    Text: Eye
+    Position: (x=234, y=323)
+    Size: (width=39, height=31)
+    Confidence: 96%
+  Text Box 11:
+    Text: Allergy
+    Position: (x=280, y=322)
+    Size: (width=84, height=31)
+    Confidence: 94%
+  Text Box 12:
+    Text: Itch
+    Position: (x=372, y=321)
+    Size: (width=42, height=25)
+    Confidence: 94%
+  Text Box 13:
+    Text: Relief
+    Position: (x=423, y=320)
+    Size: (width=67, height=26)
+    Confidence: 96%
+  Text Box 14:
+    Text: .
+    Position: (x=531, y=347)
+    Size: (width=1, height=15)
+    Confidence: 0%
+  Text Box 15:
+    Text: 4
+    Position: (x=671, y=313)
+    Size: (width=21, height=35)
+    Confidence: 96%
+  Text Box 16:
+    Text: op
+    Position: (x=130, y=488)
+    Size: (width=145, height=102)
+    Confidence: 26%
+  Text Box 17:
+    Text: |
+    Position: (x=522, y=563)
+    Size: (width=2, height=11)
+    Confidence: 90%
+  Text Box 18:
+    Text: Alcon
+    Position: (x=236, y=619)
+    Size: (width=86, height=24)
+    Confidence: 96%
+
+Second 10:
+  Total text boxes: 11
+  Text Box 1:
+    Text: ail
+    Position: (x=0, y=0)
+    Size: (width=22, height=17)
+    Confidence: 50%
+  Text Box 2:
+    Text: =
+    Position: (x=166, y=0)
+    Size: (width=19, height=4)
+    Confidence: 60%
+  Text Box 3:
+    Text: q
+    Position: (x=191, y=29)
+    Size: (width=9, height=17)
+    Confidence: 77%
+  Text Box 4:
+    Text: yy
+    Position: (x=73, y=560)
+    Size: (width=3, height=1)
+    Confidence: 0%
+  Text Box 5:
+    Text: _h
+    Position: (x=129, y=551)
+    Size: (width=17, height=21)
+    Confidence: 17%
+  Text Box 6:
+    Text: .
+    Position: (x=182, y=518)
+    Size: (width=27, height=54)
+    Confidence: 0%
+  Text Box 7:
+    Text: TL
+    Position: (x=230, y=558)
+    Size: (width=31, height=17)
+    Confidence: 60%
+  Text Box 8:
+    Text: ae
+    Position: (x=284, y=515)
+    Size: (width=68, height=55)
+    Confidence: 17%
+  Text Box 9:
+    Text: Msi
+    Position: (x=369, y=520)
+    Size: (width=43, height=49)
+    Confidence: 31%
+  Text Box 10:
+    Text: .
+    Position: (x=430, y=555)
+    Size: (width=3, height=5)
+    Confidence: 0%
+  Text Box 11:
+    Text: '
+    Position: (x=682, y=511)
+    Size: (width=8, height=14)
+    Confidence: 0%
+
+Second 11:
+  Total text boxes: 15
+  Text Box 1:
+    Text: Ny
+    Position: (x=330, y=272)
+    Size: (width=61, height=42)
+    Confidence: 0%
+  Text Box 2:
+    Text: ws
+    Position: (x=506, y=294)
+    Size: (width=52, height=23)
+    Confidence: 33%
+  Text Box 3:
+    Text: '
+    Position: (x=712, y=294)
+    Size: (width=2, height=2)
+    Confidence: 0%
+  Text Box 4:
+    Text: %
+    Position: (x=368, y=326)
+    Size: (width=6, height=7)
+    Confidence: 0%
+  Text Box 5:
+    Text: \.
+    Position: (x=560, y=320)
+    Size: (width=18, height=23)
+    Confidence: 15%
+  Text Box 6:
+    Text: PREVENTS
+    Position: (x=48, y=558)
+    Size: (width=265, height=39)
+    Confidence: 91%
+  Text Box 7:
+    Text: HISTAMINES
+    Position: (x=24, y=628)
+    Size: (width=313, height=40)
+    Confidence: 92%
+  Text Box 8:
+    Text: ;
+    Position: (x=591, y=662)
+    Size: (width=5, height=4)
+    Confidence: 40%
+  Text Box 9:
+    Text: THAT
+    Position: (x=48, y=672)
+    Size: (width=64, height=22)
+    Confidence: 94%
+  Text Box 10:
+    Text: CAUSE
+    Position: (x=122, y=658)
+    Size: (width=69, height=41)
+    Confidence: 95%
+  Text Box 11:
+    Text: THE
+    Position: (x=204, y=658)
+    Size: (width=39, height=41)
+    Confidence: 96%
+  Text Box 12:
+    Text: ITCH
+    Position: (x=256, y=672)
+    Size: (width=57, height=22)
+    Confidence: 96%
+  Text Box 13:
+    Text: Use
+    Position: (x=488, y=662)
+    Size: (width=46, height=21)
+    Confidence: 96%
+  Text Box 14:
+    Text: as
+    Position: (x=540, y=667)
+    Size: (width=26, height=16)
+    Confidence: 95%
+  Text Box 15:
+    Text: directed
+    Position: (x=573, y=661)
+    Size: (width=105, height=23)
+    Confidence: 95%
+
+Second 12:
+  Total text boxes: 50
+  Text Box 1:
+    Text: '
+    Position: (x=0, y=0)
+    Size: (width=11, height=38)
+    Confidence: 0%
+  Text Box 2:
+    Text: Ld
+    Position: (x=120, y=0)
+    Size: (width=13, height=26)
+    Confidence: 32%
+  Text Box 3:
+    Text: ame
+    Position: (x=254, y=0)
+    Size: (width=127, height=24)
+    Confidence: 20%
+  Text Box 4:
+    Text: wt
+    Position: (x=406, y=127)
+    Size: (width=76, height=37)
+    Confidence: 56%
+  Text Box 5:
+    Text: »s
+    Position: (x=437, y=178)
+    Size: (width=43, height=41)
+    Confidence: 0%
+  Text Box 6:
+    Text: S
+    Position: (x=499, y=186)
+    Size: (width=14, height=15)
+    Confidence: 6%
+  Text Box 7:
+    Text: oa
+    Position: (x=252, y=326)
+    Size: (width=118, height=58)
+    Confidence: 40%
+  Text Box 8:
+    Text: eae
+    Position: (x=486, y=298)
+    Size: (width=100, height=62)
+    Confidence: 30%
+  Text Box 9:
+    Text: gee
+    Position: (x=248, y=365)
+    Size: (width=112, height=30)
+    Confidence: 31%
+  Text Box 10:
+    Text: ao
+    Position: (x=344, y=360)
+    Size: (width=21, height=39)
+    Confidence: 1%
+  Text Box 11:
+    Text: Be
+    Position: (x=461, y=367)
+    Size: (width=17, height=15)
+    Confidence: 68%
+  Text Box 12:
+    Text: ta"
+    Position: (x=515, y=367)
+    Size: (width=17, height=13)
+    Confidence: 0%
+  Text Box 13:
+    Text: '
+    Position: (x=578, y=361)
+    Size: (width=6, height=14)
+    Confidence: 9%
+  Text Box 14:
+    Text: ws
+    Position: (x=213, y=484)
+    Size: (width=65, height=28)
+    Confidence: 45%
+  Text Box 15:
+    Text: 2
+    Position: (x=308, y=482)
+    Size: (width=20, height=18)
+    Confidence: 29%
+  Text Box 16:
+    Text: SS
+    Position: (x=373, y=471)
+    Size: (width=27, height=29)
+    Confidence: 22%
+  Text Box 17:
+    Text: XP
+    Position: (x=438, y=461)
+    Size: (width=40, height=55)
+    Confidence: 28%
+  Text Box 18:
+    Text: Sy
+    Position: (x=496, y=473)
+    Size: (width=41, height=22)
+    Confidence: 24%
+  Text Box 19:
+    Text: ies
+    Position: (x=558, y=459)
+    Size: (width=76, height=38)
+    Confidence: 55%
+  Text Box 20:
+    Text: fp
+    Position: (x=659, y=474)
+    Size: (width=38, height=12)
+    Confidence: 30%
+  Text Box 21:
+    Text: Ta
+    Position: (x=269, y=481)
+    Size: (width=337, height=72)
+    Confidence: 17%
+  Text Box 22:
+    Text: i
+    Position: (x=678, y=495)
+    Size: (width=39, height=19)
+    Confidence: 21%
+  Text Box 23:
+    Text: iy
+    Position: (x=284, y=549)
+    Size: (width=31, height=32)
+    Confidence: 37%
+  Text Box 24:
+    Text: saSoo
+    Position: (x=325, y=521)
+    Size: (width=183, height=53)
+    Confidence: 0%
+  Text Box 25:
+    Text: ei
+    Position: (x=523, y=537)
+    Size: (width=33, height=15)
+    Confidence: 30%
+  Text Box 26:
+    Text: 1
+    Position: (x=628, y=517)
+    Size: (width=33, height=18)
+    Confidence: 82%
+  Text Box 27:
+    Text: 16
+    Position: (x=269, y=619)
+    Size: (width=20, height=15)
+    Confidence: 42%
+  Text Box 28:
+    Text: ayy
+    Position: (x=301, y=617)
+    Size: (width=67, height=26)
+    Confidence: 0%
+  Text Box 29:
+    Text: ay
+    Position: (x=410, y=608)
+    Size: (width=41, height=36)
+    Confidence: 50%
+  Text Box 30:
+    Text: ,
+    Position: (x=530, y=612)
+    Size: (width=2, height=6)
+    Confidence: 0%
+  Text Box 31:
+    Text: \
+    Position: (x=592, y=600)
+    Size: (width=7, height=24)
+    Confidence: 90%
+  Text Box 32:
+    Text: y
+    Position: (x=670, y=590)
+    Size: (width=10, height=22)
+    Confidence: 0%
+  Text Box 33:
+    Text: a
+    Position: (x=0, y=665)
+    Size: (width=36, height=26)
+    Confidence: 9%
+  Text Box 34:
+    Text: jiteee
+    Position: (x=254, y=639)
+    Size: (width=96, height=30)
+    Confidence: 0%
+  Text Box 35:
+    Text: ©
+    Position: (x=380, y=633)
+    Size: (width=46, height=21)
+    Confidence: 0%
+  Text Box 36:
+    Text: a
+    Position: (x=478, y=622)
+    Size: (width=34, height=33)
+    Confidence: 55%
+  Text Box 37:
+    Text: ae
+    Position: (x=556, y=621)
+    Size: (width=44, height=8)
+    Confidence: 18%
+  Text Box 38:
+    Text: “¢
+    Position: (x=0, y=691)
+    Size: (width=48, height=29)
+    Confidence: 0%
+  Text Box 39:
+    Text: Mig
+    Position: (x=240, y=661)
+    Size: (width=38, height=56)
+    Confidence: 31%
+  Text Box 40:
+    Text: 8
+    Position: (x=293, y=689)
+    Size: (width=2, height=14)
+    Confidence: 19%
+  Text Box 41:
+    Text: BOe
+    Position: (x=309, y=662)
+    Size: (width=52, height=53)
+    Confidence: 0%
+  Text Box 42:
+    Text: Siac
+    Position: (x=390, y=640)
+    Size: (width=133, height=61)
+    Confidence: 20%
+  Text Box 43:
+    Text: :
+    Position: (x=539, y=686)
+    Size: (width=1, height=3)
+    Confidence: 13%
+  Text Box 44:
+    Text: y
+    Position: (x=557, y=649)
+    Size: (width=20, height=40)
+    Confidence: 0%
+  Text Box 45:
+    Text: i
+    Position: (x=674, y=586)
+    Size: (width=42, height=134)
+    Confidence: 70%
+  Text Box 46:
+    Text: »
+    Position: (x=333, y=714)
+    Size: (width=5, height=5)
+    Confidence: 67%
+  Text Box 47:
+    Text: ogee
+    Position: (x=354, y=690)
+    Size: (width=55, height=30)
+    Confidence: 46%
+  Text Box 48:
+    Text: OB
+    Position: (x=421, y=694)
+    Size: (width=40, height=18)
+    Confidence: 22%
+  Text Box 49:
+    Text: Be
+    Position: (x=495, y=698)
+    Size: (width=54, height=22)
+    Confidence: 61%
+  Text Box 50:
+    Text: «*
+    Position: (x=529, y=690)
+    Size: (width=23, height=30)
+    Confidence: 34%
+
+Second 13:
+  Total text boxes: 66
+  Text Box 1:
+    Text: d
+    Position: (x=0, y=0)
+    Size: (width=9, height=25)
+    Confidence: 76%
+  Text Box 2:
+    Text: j
+    Position: (x=269, y=285)
+    Size: (width=3, height=1)
+    Confidence: 0%
+  Text Box 3:
+    Text: Y
+    Position: (x=382, y=119)
+    Size: (width=162, height=195)
+    Confidence: 47%
+  Text Box 4:
+    Text: .
+    Position: (x=120, y=336)
+    Size: (width=6, height=12)
+    Confidence: 14%
+  Text Box 5:
+    Text: ;
+    Position: (x=486, y=293)
+    Size: (width=6, height=9)
+    Confidence: 0%
+  Text Box 6:
+    Text: 4
+    Position: (x=568, y=301)
+    Size: (width=9, height=6)
+    Confidence: 49%
+  Text Box 7:
+    Text: P.
+    Position: (x=253, y=363)
+    Size: (width=57, height=38)
+    Confidence: 0%
+  Text Box 8:
+    Text: .
+    Position: (x=373, y=383)
+    Size: (width=14, height=9)
+    Confidence: 57%
+  Text Box 9:
+    Text: Sl
+    Position: (x=511, y=323)
+    Size: (width=73, height=38)
+    Confidence: 10%
+  Text Box 10:
+    Text: F
+    Position: (x=252, y=427)
+    Size: (width=16, height=19)
+    Confidence: 0%
+  Text Box 11:
+    Text: ‘
+    Position: (x=313, y=426)
+    Size: (width=13, height=12)
+    Confidence: 23%
+  Text Box 12:
+    Text: ry
+    Position: (x=377, y=393)
+    Size: (width=16, height=39)
+    Confidence: 25%
+  Text Box 13:
+    Text: +
+    Position: (x=542, y=394)
+    Size: (width=10, height=24)
+    Confidence: 8%
+  Text Box 14:
+    Text: od
+    Position: (x=574, y=394)
+    Size: (width=28, height=24)
+    Confidence: 32%
+  Text Box 15:
+    Text: ah
+    Position: (x=364, y=428)
+    Size: (width=69, height=18)
+    Confidence: 57%
+  Text Box 16:
+    Text: ore"
+    Position: (x=527, y=409)
+    Size: (width=86, height=23)
+    Confidence: 36%
+  Text Box 17:
+    Text: Shoreet
+    Position: (x=204, y=448)
+    Size: (width=200, height=61)
+    Confidence: 0%
+  Text Box 18:
+    Text: at
+    Position: (x=498, y=440)
+    Size: (width=43, height=25)
+    Confidence: 25%
+  Text Box 19:
+    Text: eae
+    Position: (x=560, y=414)
+    Size: (width=82, height=67)
+    Confidence: 22%
+  Text Box 20:
+    Text: os
+    Position: (x=216, y=493)
+    Size: (width=58, height=23)
+    Confidence: 53%
+  Text Box 21:
+    Text: @
+    Position: (x=292, y=496)
+    Size: (width=16, height=18)
+    Confidence: 66%
+  Text Box 22:
+    Text: o.%°
+    Position: (x=331, y=475)
+    Size: (width=80, height=34)
+    Confidence: 0%
+  Text Box 23:
+    Text: 3”
+    Position: (x=501, y=462)
+    Size: (width=49, height=27)
+    Confidence: 62%
+  Text Box 24:
+    Text: ey
+    Position: (x=636, y=455)
+    Size: (width=59, height=20)
+    Confidence: 0%
+  Text Box 25:
+    Text: Ones
+    Position: (x=221, y=507)
+    Size: (width=164, height=40)
+    Confidence: 11%
+  Text Box 26:
+    Text: we
+    Position: (x=457, y=491)
+    Size: (width=62, height=31)
+    Confidence: 51%
+  Text Box 27:
+    Text: o
+    Position: (x=558, y=489)
+    Size: (width=19, height=17)
+    Confidence: 21%
+  Text Box 28:
+    Text: .*:
+    Position: (x=593, y=473)
+    Size: (width=41, height=39)
+    Confidence: 34%
+  Text Box 29:
+    Text: sa
+    Position: (x=658, y=489)
+    Size: (width=42, height=19)
+    Confidence: 68%
+  Text Box 30:
+    Text: fee
+    Position: (x=272, y=536)
+    Size: (width=42, height=39)
+    Confidence: 3%
+  Text Box 31:
+    Text: Swe
+    Position: (x=389, y=524)
+    Size: (width=87, height=23)
+    Confidence: 30%
+  Text Box 32:
+    Text: o
+    Position: (x=519, y=512)
+    Size: (width=13, height=14)
+    Confidence: 7%
+  Text Box 33:
+    Text: o0%°b
+    Position: (x=548, y=498)
+    Size: (width=106, height=37)
+    Confidence: 0%
+  Text Box 34:
+    Text: of
+    Position: (x=700, y=500)
+    Size: (width=2, height=3)
+    Confidence: 15%
+  Text Box 35:
+    Text: t
+    Position: (x=267, y=562)
+    Size: (width=3, height=14)
+    Confidence: 0%
+  Text Box 36:
+    Text: @
+    Position: (x=320, y=557)
+    Size: (width=22, height=20)
+    Confidence: 76%
+  Text Box 37:
+    Text: #2”
+    Position: (x=373, y=548)
+    Size: (width=83, height=24)
+    Confidence: 0%
+  Text Box 38:
+    Text: ae
+    Position: (x=482, y=524)
+    Size: (width=63, height=57)
+    Confidence: 18%
+  Text Box 39:
+    Text: *"
+    Position: (x=585, y=525)
+    Size: (width=27, height=29)
+    Confidence: 0%
+  Text Box 40:
+    Text: we
+    Position: (x=662, y=529)
+    Size: (width=2, height=2)
+    Confidence: 50%
+  Text Box 41:
+    Text: hee
+    Position: (x=268, y=579)
+    Size: (width=87, height=22)
+    Confidence: 41%
+  Text Box 42:
+    Text: e
+    Position: (x=396, y=571)
+    Size: (width=24, height=15)
+    Confidence: 10%
+  Text Box 43:
+    Text: ue
+    Position: (x=481, y=555)
+    Size: (width=38, height=26)
+    Confidence: 41%
+  Text Box 44:
+    Text: fey
+    Position: (x=552, y=545)
+    Size: (width=18, height=21)
+    Confidence: 29%
+  Text Box 45:
+    Text: 3
+    Position: (x=625, y=542)
+    Size: (width=41, height=26)
+    Confidence: 19%
+  Text Box 46:
+    Text: ‘
+    Position: (x=12, y=654)
+    Size: (width=5, height=8)
+    Confidence: 49%
+  Text Box 47:
+    Text: '
+    Position: (x=271, y=602)
+    Size: (width=12, height=39)
+    Confidence: 0%
+  Text Box 48:
+    Text: Fyn
+    Position: (x=382, y=581)
+    Size: (width=68, height=51)
+    Confidence: 31%
+  Text Box 49:
+    Text: 8
+    Position: (x=462, y=596)
+    Size: (width=13, height=21)
+    Confidence: 45%
+  Text Box 50:
+    Text: e
+    Position: (x=538, y=568)
+    Size: (width=46, height=42)
+    Confidence: 0%
+  Text Box 51:
+    Text: a
+    Position: (x=605, y=566)
+    Size: (width=90, height=29)
+    Confidence: 34%
+  Text Box 52:
+    Text: 4
+    Position: (x=16, y=664)
+    Size: (width=17, height=28)
+    Confidence: 90%
+  Text Box 53:
+    Text: ore
+    Position: (x=328, y=608)
+    Size: (width=134, height=55)
+    Confidence: 24%
+  Text Box 54:
+    Text: x
+    Position: (x=505, y=600)
+    Size: (width=36, height=22)
+    Confidence: 38%
+  Text Box 55:
+    Text: 7
+    Position: (x=573, y=580)
+    Size: (width=30, height=54)
+    Confidence: 55%
+  Text Box 56:
+    Text: .
+    Position: (x=0, y=682)
+    Size: (width=35, height=38)
+    Confidence: 14%
+  Text Box 57:
+    Text: Me
+    Position: (x=269, y=647)
+    Size: (width=45, height=46)
+    Confidence: 29%
+  Text Box 58:
+    Text: goes
+    Position: (x=357, y=644)
+    Size: (width=95, height=38)
+    Confidence: 51%
+  Text Box 59:
+    Text: say.’
+    Position: (x=460, y=631)
+    Size: (width=109, height=38)
+    Confidence: 0%
+  Text Box 60:
+    Text: pe
+    Position: (x=264, y=686)
+    Size: (width=62, height=29)
+    Confidence: 41%
+  Text Box 61:
+    Text: pire
+    Position: (x=337, y=665)
+    Size: (width=98, height=55)
+    Confidence: 41%
+  Text Box 62:
+    Text: ea
+    Position: (x=461, y=669)
+    Size: (width=51, height=33)
+    Confidence: 49%
+  Text Box 63:
+    Text: ‘
+    Position: (x=531, y=678)
+    Size: (width=11, height=18)
+    Confidence: 80%
+  Text Box 64:
+    Text: ‘
+    Position: (x=592, y=640)
+    Size: (width=28, height=42)
+    Confidence: 59%
+  Text Box 65:
+    Text: \
+    Position: (x=708, y=661)
+    Size: (width=11, height=29)
+    Confidence: 75%
+  Text Box 66:
+    Text: e
+    Position: (x=573, y=696)
+    Size: (width=11, height=17)
+    Confidence: 77%
+
+Second 14:
+  Total text boxes: 36
+  Text Box 1:
+    Text: “|
+    Position: (x=125, y=83)
+    Size: (width=17, height=16)
+    Confidence: 39%
+  Text Box 2:
+    Text: "7
+    Position: (x=237, y=78)
+    Size: (width=22, height=18)
+    Confidence: 18%
+  Text Box 3:
+    Text: q
+    Position: (x=620, y=84)
+    Size: (width=6, height=11)
+    Confidence: 75%
+  Text Box 4:
+    Text: EXTRA
+    Position: (x=102, y=142)
+    Size: (width=66, height=17)
+    Confidence: 96%
+  Text Box 5:
+    Text: STRENGTH
+    Position: (x=174, y=139)
+    Size: (width=113, height=18)
+    Confidence: 96%
+  Text Box 6:
+    Text: -
+    Position: (x=371, y=93)
+    Size: (width=113, height=74)
+    Confidence: 60%
+  Text Box 7:
+    Text: -
+    Position: (x=496, y=116)
+    Size: (width=34, height=32)
+    Confidence: 13%
+  Text Box 8:
+    Text: ONCE
+    Position: (x=104, y=234)
+    Size: (width=58, height=18)
+    Confidence: 96%
+  Text Box 9:
+    Text: DAILY
+    Position: (x=169, y=232)
+    Size: (width=61, height=18)
+    Confidence: 96%
+  Text Box 10:
+    Text: RELIEF
+    Position: (x=238, y=230)
+    Size: (width=69, height=18)
+    Confidence: 97%
+  Text Box 11:
+    Text: Eye
+    Position: (x=107, y=311)
+    Size: (width=31, height=24)
+    Confidence: 96%
+  Text Box 12:
+    Text: Allergy
+    Position: (x=143, y=309)
+    Size: (width=64, height=24)
+    Confidence: 96%
+  Text Box 13:
+    Text: Itch
+    Position: (x=212, y=307)
+    Size: (width=33, height=20)
+    Confidence: 95%
+  Text Box 14:
+    Text: Relief
+    Position: (x=251, y=305)
+    Size: (width=51, height=21)
+    Confidence: 96%
+  Text Box 15:
+    Text: Works
+    Position: (x=194, y=342)
+    Size: (width=30, height=11)
+    Confidence: 94%
+  Text Box 16:
+    Text: in
+    Position: (x=229, y=345)
+    Size: (width=7, height=8)
+    Confidence: 95%
+  Text Box 17:
+    Text: Minutes
+    Position: (x=241, y=341)
+    Size: (width=40, height=11)
+    Confidence: 96%
+  Text Box 18:
+    Text: (24)
+    Position: (x=110, y=346)
+    Size: (width=66, height=66)
+    Confidence: 89%
+  Text Box 19:
+    Text: Relief
+    Position: (x=195, y=358)
+    Size: (width=28, height=22)
+    Confidence: 96%
+  Text Box 20:
+    Text: from
+    Position: (x=228, y=358)
+    Size: (width=22, height=22)
+    Confidence: 95%
+  Text Box 21:
+    Text: i
+    Position: (x=256, y=343)
+    Size: (width=45, height=29)
+    Confidence: 0%
+  Text Box 22:
+    Text: J
+    Position: (x=173, y=372)
+    Size: (width=1, height=14)
+    Confidence: 22%
+  Text Box 23:
+    Text: -Pet
+    Position: (x=195, y=380)
+    Size: (width=21, height=10)
+    Confidence: 61%
+  Text Box 24:
+    Text: dander
+    Position: (x=225, y=379)
+    Size: (width=32, height=12)
+    Confidence: 29%
+  Text Box 25:
+    Text: «Pollen
+    Position: (x=262, y=377)
+    Size: (width=33, height=12)
+    Confidence: 29%
+  Text Box 26:
+    Text: +
+    Position: (x=196, y=402)
+    Size: (width=2, height=3)
+    Confidence: 51%
+  Text Box 27:
+    Text: Grass
+    Position: (x=202, y=396)
+    Size: (width=84, height=13)
+    Confidence: 51%
+  Text Box 28:
+    Text: «
+    Position: (x=234, y=387)
+    Size: (width=3, height=27)
+    Confidence: 68%
+  Text Box 29:
+    Text: Ragweed
+    Position: (x=243, y=396)
+    Size: (width=43, height=13)
+    Confidence: 95%
+  Text Box 30:
+    Text: Alcon
+    Position: (x=115, y=536)
+    Size: (width=66, height=19)
+    Confidence: 96%
+  Text Box 31:
+    Text: -
+    Position: (x=688, y=640)
+    Size: (width=32, height=12)
+    Confidence: 55%
+  Text Box 32:
+    Text: ©
+    Position: (x=214, y=697)
+    Size: (width=11, height=14)
+    Confidence: 84%
+  Text Box 33:
+    Text: 2024
+    Position: (x=232, y=696)
+    Size: (width=64, height=15)
+    Confidence: 84%
+  Text Box 34:
+    Text: Alcon
+    Position: (x=280, y=686)
+    Size: (width=44, height=34)
+    Confidence: 79%
+  Text Box 35:
+    Text: Inc.
+    Position: (x=334, y=700)
+    Size: (width=22, height=11)
+    Confidence: 79%
+  Text Box 36:
+    Text: US-PTD-2300145
+    Position: (x=361, y=697)
+    Size: (width=144, height=14)
+    Confidence: 91%
+
+Second 15:
+  Total text boxes: 44
+  Text Box 1:
+    Text: ‘
+    Position: (x=637, y=16)
+    Size: (width=5, height=8)
+    Confidence: 79%
+  Text Box 2:
+    Text: q
+    Position: (x=645, y=56)
+    Size: (width=5, height=10)
+    Confidence: 70%
+  Text Box 3:
+    Text: EXTRA
+    Position: (x=80, y=145)
+    Size: (width=66, height=15)
+    Confidence: 96%
+  Text Box 4:
+    Text: STRENGTH
+    Position: (x=153, y=145)
+    Size: (width=112, height=15)
+    Confidence: 96%
+  Text Box 5:
+    Text: 7
+    Position: (x=651, y=11)
+    Size: (width=64, height=148)
+    Confidence: 52%
+  Text Box 6:
+    Text: Pataday.
+    Position: (x=80, y=178)
+    Size: (width=205, height=56)
+    Confidence: 85%
+  Text Box 7:
+    Text: ONCE
+    Position: (x=80, y=237)
+    Size: (width=58, height=16)
+    Confidence: 96%
+  Text Box 8:
+    Text: DAILY
+    Position: (x=145, y=236)
+    Size: (width=61, height=16)
+    Confidence: 94%
+  Text Box 9:
+    Text: RELIEF
+    Position: (x=213, y=236)
+    Size: (width=70, height=16)
+    Confidence: 96%
+  Text Box 10:
+    Text: Eye
+    Position: (x=81, y=306)
+    Size: (width=25, height=34)
+    Confidence: 94%
+  Text Box 11:
+    Text: Allergy
+    Position: (x=101, y=311)
+    Size: (width=118, height=25)
+    Confidence: 94%
+  Text Box 12:
+    Text: Itch
+    Position: (x=184, y=306)
+    Size: (width=32, height=34)
+    Confidence: 91%
+  Text Box 13:
+    Text: Relief
+    Position: (x=225, y=310)
+    Size: (width=52, height=21)
+    Confidence: 95%
+  Text Box 14:
+    Text: B
+    Position: (x=325, y=253)
+    Size: (width=62, height=81)
+    Confidence: 90%
+  Text Box 15:
+    Text: P
+    Position: (x=403, y=252)
+    Size: (width=65, height=83)
+    Confidence: 61%
+  Text Box 16:
+    Text: 1
+    Position: (x=482, y=252)
+    Size: (width=19, height=83)
+    Confidence: 56%
+  Text Box 17:
+    Text: NI
+    Position: (x=516, y=247)
+    Size: (width=72, height=92)
+    Confidence: 41%
+  Text Box 18:
+    Text: G
+    Position: (x=602, y=251)
+    Size: (width=81, height=85)
+    Confidence: 90%
+  Text Box 19:
+    Text: j
+    Position: (x=102, y=354)
+    Size: (width=1, height=3)
+    Confidence: 2%
+  Text Box 20:
+    Text: Works
+    Position: (x=167, y=346)
+    Size: (width=87, height=11)
+    Confidence: 91%
+  Text Box 21:
+    Text: in
+    Position: (x=199, y=342)
+    Size: (width=12, height=22)
+    Confidence: 91%
+  Text Box 22:
+    Text: Minutes
+    Position: (x=216, y=346)
+    Size: (width=38, height=11)
+    Confidence: 96%
+  Text Box 23:
+    Text: (33)
+    Position: (x=82, y=346)
+    Size: (width=65, height=70)
+    Confidence: 72%
+  Text Box 24:
+    Text: Relief
+    Position: (x=163, y=355)
+    Size: (width=32, height=31)
+    Confidence: 58%
+  Text Box 25:
+    Text: from
+    Position: (x=200, y=366)
+    Size: (width=20, height=11)
+    Confidence: 67%
+  Text Box 26:
+    Text: Allergens:
+    Position: (x=227, y=355)
+    Size: (width=53, height=31)
+    Confidence: 93%
+  Text Box 27:
+    Text: iT
+    Position: (x=345, y=355)
+    Size: (width=105, height=93)
+    Confidence: 0%
+  Text Box 28:
+    Text: '@)
+    Position: (x=467, y=349)
+    Size: (width=119, height=109)
+    Confidence: 0%
+  Text Box 29:
+    Text: bh
+    Position: (x=592, y=350)
+    Size: (width=96, height=108)
+    Confidence: 0%
+  Text Box 30:
+    Text: +
+    Position: (x=167, y=389)
+    Size: (width=3, height=3)
+    Confidence: 17%
+  Text Box 31:
+    Text: Pet
+    Position: (x=174, y=383)
+    Size: (width=15, height=12)
+    Confidence: 17%
+  Text Box 32:
+    Text: Dander
+    Position: (x=193, y=383)
+    Size: (width=78, height=12)
+    Confidence: 92%
+  Text Box 33:
+    Text: +
+    Position: (x=233, y=379)
+    Size: (width=3, height=23)
+    Confidence: 46%
+  Text Box 34:
+    Text: Pollen
+    Position: (x=241, y=383)
+    Size: (width=30, height=12)
+    Confidence: 29%
+  Text Box 35:
+    Text: +
+    Position: (x=167, y=405)
+    Size: (width=3, height=4)
+    Confidence: 54%
+  Text Box 36:
+    Text: Grass
+    Position: (x=174, y=400)
+    Size: (width=83, height=15)
+    Confidence: 54%
+  Text Box 37:
+    Text: +
+    Position: (x=205, y=391)
+    Size: (width=3, height=28)
+    Confidence: 57%
+  Text Box 38:
+    Text: Ragweed
+    Position: (x=214, y=400)
+    Size: (width=43, height=15)
+    Confidence: 92%
+  Text Box 39:
+    Text: Alcon
+    Position: (x=82, y=537)
+    Size: (width=68, height=20)
+    Confidence: 96%
+  Text Box 40:
+    Text: ©
+    Position: (x=214, y=697)
+    Size: (width=14, height=14)
+    Confidence: 88%
+  Text Box 41:
+    Text: 2024
+    Position: (x=232, y=697)
+    Size: (width=45, height=14)
+    Confidence: 88%
+  Text Box 42:
+    Text: Alcon
+    Position: (x=281, y=694)
+    Size: (width=43, height=17)
+    Confidence: 90%
+  Text Box 43:
+    Text: Inc.
+    Position: (x=330, y=697)
+    Size: (width=26, height=14)
+    Confidence: 93%
+  Text Box 44:
+    Text: US-PTD-2300145
+    Position: (x=361, y=697)
+    Size: (width=144, height=14)
+    Confidence: 91%
