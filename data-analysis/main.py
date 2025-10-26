@@ -15,10 +15,12 @@ import util.face_keypoints
 import util.body_keypoints
 import util.sound
 import util.depth_map
+import util.llm_insights
+import util.sound_extraction
 
 # SETTINGS
-MAX_IMAGES_TO_PROCESS = 5  # None = all images, or set a number (e.g., 5, 10)
-MAX_VIDEOS_TO_PROCESS = 5  # None = all videos, or set a number
+MAX_IMAGES_TO_PROCESS = 5
+MAX_VIDEOS_TO_PROCESS = 5
 
 # Define base paths
 BASE_DIR = Path(__file__).parent
@@ -36,8 +38,10 @@ def print_all_media_paths():
     for directory, pattern, max_files in media_dirs:
         if directory.exists():
             files = sorted(directory.glob(pattern))
+            
             if max_files is not None:
                 files = files[:max_files]
+            
             for file_path in files:
                 # color palette of each image
                 #util.color_theory.run(file_path)
@@ -54,8 +58,13 @@ def print_all_media_paths():
                 # audio analysis of each video (volume, pitch, BPM)
                 #util.sound.run(file_path)
                 
-                # depth map analysis of each image
-                util.depth_map.run(file_path)
+                #util.depth_map.run(file_path)
+                
+                # llm insights for advertisement images (OCR, demographics, pricing, etc.)
+                #util.llm_insights.run(file_path)
+                
+                # audio separation of each video (vocals, drums, bass, other, instrumental)
+                util.sound_extraction.run(file_path)
 
 if __name__ == "__main__":
     print_all_media_paths()

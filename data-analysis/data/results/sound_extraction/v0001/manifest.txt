@@ -1,0 +1,11 @@
+Audio Separation Results for: v0001.mp4
+============================================================
+
+Drums: drums.wav (2.53 MB)
+Bass: bass.wav (2.53 MB)
+Other: other.wav (2.53 MB)
+Vocals: vocals.wav (2.53 MB)
+Instrumental: instrumental.wav (2.53 MB)
+
+============================================================
+Total tracks: 5
