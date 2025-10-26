@@ -1,0 +1,4 @@
+Depth Map Analysis (threshold=128):
+Close to camera: 30.43%
+Far from camera: 69.57%
+Depth map image: i0002_depth.png

@@ -1,6 +1,10 @@
 import os
 import sys
 from pathlib import Path
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv(Path(__file__).parent.parent / '.env')
 
 # Add the script's directory to Python path
 sys.path.insert(0, str(Path(__file__).parent))
@@ -10,6 +14,7 @@ import util.video_length
 import util.face_keypoints
 import util.body_keypoints
 import util.sound
+import util.depth_map
 
 # SETTINGS
 MAX_IMAGES_TO_PROCESS = 5  # None = all images, or set a number (e.g., 5, 10)
@@ -47,7 +52,10 @@ def print_all_media_paths():
                 #util.body_keypoints.run(file_path)
                 
                 # audio analysis of each video (volume, pitch, BPM)
-                util.sound.run(file_path)
+                #util.sound.run(file_path)
+                
+                # depth map analysis of each image
+                util.depth_map.run(file_path)
 
 if __name__ == "__main__":
     print_all_media_paths()
