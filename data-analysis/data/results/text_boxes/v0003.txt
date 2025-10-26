@@ -1,0 +1,1324 @@
+Second 0:
+  Total text boxes: 48
+  Text Box 1:
+    Text: —
+    Position: (x=416, y=238)
+    Size: (width=76, height=30)
+    Confidence: 63%
+  Text Box 2:
+    Text: ’
+    Position: (x=1009, y=230)
+    Size: (width=9, height=16)
+    Confidence: 4%
+  Text Box 3:
+    Text: s
+    Position: (x=1160, y=230)
+    Size: (width=50, height=38)
+    Confidence: 0%
+  Text Box 4:
+    Text: e
+    Position: (x=1328, y=224)
+    Size: (width=52, height=32)
+    Confidence: 3%
+  Text Box 5:
+    Text: om
+    Position: (x=1557, y=201)
+    Size: (width=61, height=81)
+    Confidence: 64%
+  Text Box 6:
+    Text: |
+    Position: (x=1654, y=228)
+    Size: (width=7, height=14)
+    Confidence: 43%
+  Text Box 7:
+    Text: s—
+    Position: (x=1691, y=224)
+    Size: (width=94, height=29)
+    Confidence: 58%
+  Text Box 8:
+    Text: )
+    Position: (x=1015, y=256)
+    Size: (width=16, height=80)
+    Confidence: 22%
+  Text Box 9:
+    Text: 5-35
+    Position: (x=1134, y=298)
+    Size: (width=64, height=51)
+    Confidence: 46%
+  Text Box 10:
+    Text: =
+    Position: (x=1478, y=299)
+    Size: (width=142, height=43)
+    Confidence: 65%
+  Text Box 11:
+    Text: =
+    Position: (x=1749, y=282)
+    Size: (width=118, height=63)
+    Confidence: 51%
+  Text Box 12:
+    Text: ae
+    Position: (x=298, y=373)
+    Size: (width=94, height=47)
+    Confidence: 0%
+  Text Box 13:
+    Text: =.
+    Position: (x=790, y=364)
+    Size: (width=88, height=48)
+    Confidence: 59%
+  Text Box 14:
+    Text: ~~
+    Position: (x=1499, y=350)
+    Size: (width=43, height=47)
+    Confidence: 41%
+  Text Box 15:
+    Text: —
+    Position: (x=1828, y=374)
+    Size: (width=37, height=5)
+    Confidence: 45%
+  Text Box 16:
+    Text: |
+    Position: (x=248, y=521)
+    Size: (width=6, height=1)
+    Confidence: 86%
+  Text Box 17:
+    Text: =)
+    Position: (x=902, y=496)
+    Size: (width=310, height=62)
+    Confidence: 30%
+  Text Box 18:
+    Text: =
+    Position: (x=1875, y=536)
+    Size: (width=37, height=8)
+    Confidence: 60%
+  Text Box 19:
+    Text: -
+    Position: (x=176, y=654)
+    Size: (width=18, height=6)
+    Confidence: 30%
+  Text Box 20:
+    Text: —
+    Position: (x=880, y=614)
+    Size: (width=106, height=42)
+    Confidence: 56%
+  Text Box 21:
+    Text: sa}
+    Position: (x=1212, y=528)
+    Size: (width=456, height=161)
+    Confidence: 25%
+  Text Box 22:
+    Text: —
+    Position: (x=212, y=658)
+    Size: (width=108, height=36)
+    Confidence: 47%
+  Text Box 23:
+    Text: ‘
+    Position: (x=1166, y=676)
+    Size: (width=1, height=3)
+    Confidence: 82%
+  Text Box 24:
+    Text: a
+    Position: (x=1196, y=655)
+    Size: (width=76, height=40)
+    Confidence: 28%
+  Text Box 25:
+    Text: pe
+    Position: (x=1289, y=667)
+    Size: (width=82, height=33)
+    Confidence: 32%
+  Text Box 26:
+    Text: ra
+    Position: (x=1402, y=654)
+    Size: (width=19, height=51)
+    Confidence: 68%
+  Text Box 27:
+    Text: ae
+    Position: (x=1438, y=679)
+    Size: (width=64, height=26)
+    Confidence: 43%
+  Text Box 28:
+    Text: =|
+    Position: (x=1513, y=655)
+    Size: (width=13, height=43)
+    Confidence: 36%
+  Text Box 29:
+    Text: Af
+    Position: (x=1597, y=698)
+    Size: (width=73, height=10)
+    Confidence: 53%
+  Text Box 30:
+    Text: Rated
+    Position: (x=170, y=816)
+    Size: (width=81, height=26)
+    Confidence: 96%
+  Text Box 31:
+    Text: as
+    Position: (x=262, y=823)
+    Size: (width=32, height=19)
+    Confidence: 97%
+  Text Box 32:
+    Text: Great
+    Position: (x=304, y=816)
+    Size: (width=81, height=27)
+    Confidence: 96%
+  Text Box 33:
+    Text: =|
+    Position: (x=736, y=827)
+    Size: (width=60, height=33)
+    Confidence: 89%
+  Text Box 34:
+    Text: i.
+    Position: (x=938, y=840)
+    Size: (width=17, height=19)
+    Confidence: 21%
+  Text Box 35:
+    Text: ———_
+    Position: (x=971, y=814)
+    Size: (width=191, height=72)
+    Confidence: 0%
+  Text Box 36:
+    Text: po.
+    Position: (x=1267, y=805)
+    Size: (width=103, height=58)
+    Confidence: 70%
+  Text Box 37:
+    Text: tC
+    Position: (x=1408, y=805)
+    Size: (width=78, height=58)
+    Confidence: 38%
+  Text Box 38:
+    Text: le
+    Position: (x=1665, y=827)
+    Size: (width=16, height=21)
+    Confidence: 38%
+  Text Box 39:
+    Text: -
+    Position: (x=1886, y=830)
+    Size: (width=34, height=29)
+    Confidence: 0%
+  Text Box 40:
+    Text: ¥*&
+    Position: (x=157, y=950)
+    Size: (width=37, height=63)
+    Confidence: 19%
+  Text Box 41:
+    Text: Trustpilot
+    Position: (x=221, y=950)
+    Size: (width=171, height=63)
+    Confidence: 90%
+  Text Box 42:
+    Text: x“
+    Position: (x=853, y=957)
+    Size: (width=59, height=15)
+    Confidence: 0%
+  Text Box 43:
+    Text: "ye
+    Position: (x=924, y=944)
+    Size: (width=137, height=69)
+    Confidence: 29%
+  Text Box 44:
+    Text: "\n
+    Position: (x=1072, y=960)
+    Size: (width=114, height=49)
+    Confidence: 0%
+  Text Box 45:
+    Text: oe
+    Position: (x=1185, y=958)
+    Size: (width=119, height=42)
+    Confidence: 12%
+  Text Box 46:
+    Text: =_
+    Position: (x=1304, y=956)
+    Size: (width=120, height=34)
+    Confidence: 43%
+  Text Box 47:
+    Text: Get
+    Position: (x=1507, y=956)
+    Size: (width=61, height=8)
+    Confidence: 81%
+  Text Box 48:
+    Text: lickets
+    Position: (x=1622, y=955)
+    Size: (width=116, height=9)
+    Confidence: 47%
+
+Second 1:
+  Total text boxes: 24
+  Text Box 1:
+    Text: FORM
+    Position: (x=107, y=80)
+    Size: (width=318, height=163)
+    Confidence: 95%
+  Text Box 2:
+    Text: lJ
+    Position: (x=439, y=77)
+    Size: (width=68, height=171)
+    Confidence: 70%
+  Text Box 3:
+    Text: Lf
+    Position: (x=521, y=81)
+    Size: (width=135, height=160)
+    Confidence: 57%
+  Text Box 4:
+    Text: ]
+    Position: (x=715, y=81)
+    Size: (width=38, height=160)
+    Confidence: 73%
+  Text Box 5:
+    Text: om
+    Position: (x=983, y=132)
+    Size: (width=225, height=89)
+    Confidence: 31%
+  Text Box 6:
+    Text: ee
+    Position: (x=1371, y=146)
+    Size: (width=242, height=126)
+    Confidence: 10%
+  Text Box 7:
+    Text: rnational
+    Position: (x=1695, y=168)
+    Size: (width=117, height=42)
+    Confidence: 92%
+  Text Box 8:
+    Text: *
+    Position: (x=844, y=219)
+    Size: (width=19, height=28)
+    Confidence: 54%
+  Text Box 9:
+    Text: -
+    Position: (x=1182, y=250)
+    Size: (width=18, height=15)
+    Confidence: 0%
+  Text Box 10:
+    Text: “~S
+    Position: (x=1228, y=199)
+    Size: (width=105, height=87)
+    Confidence: 0%
+  Text Box 11:
+    Text: —s
+    Position: (x=1651, y=224)
+    Size: (width=54, height=33)
+    Confidence: 33%
+  Text Box 12:
+    Text: —
+    Position: (x=1726, y=225)
+    Size: (width=44, height=5)
+    Confidence: 56%
+  Text Box 13:
+    Text: TICKETS
+    Position: (x=100, y=272)
+    Size: (width=480, height=167)
+    Confidence: 47%
+  Text Box 14:
+    Text: AVAILABLE’
+    Position: (x=630, y=275)
+    Size: (width=514, height=161)
+    Confidence: 72%
+  Text Box 15:
+    Text: (=
+    Position: (x=1480, y=270)
+    Size: (width=411, height=107)
+    Confidence: 18%
+  Text Box 16:
+    Text: Rated
+    Position: (x=170, y=816)
+    Size: (width=81, height=26)
+    Confidence: 96%
+  Text Box 17:
+    Text: as
+    Position: (x=262, y=824)
+    Size: (width=32, height=18)
+    Confidence: 96%
+  Text Box 18:
+    Text: Great
+    Position: (x=304, y=816)
+    Size: (width=81, height=26)
+    Confidence: 96%
+  Text Box 19:
+    Text: =
+    Position: (x=715, y=823)
+    Size: (width=55, height=12)
+    Confidence: 83%
+  Text Box 20:
+    Text: pe
+    Position: (x=936, y=762)
+    Size: (width=221, height=106)
+    Confidence: 1%
+  Text Box 21:
+    Text: ‘i
+    Position: (x=1169, y=762)
+    Size: (width=27, height=37)
+    Confidence: 30%
+  Text Box 22:
+    Text: b
+    Position: (x=1215, y=747)
+    Size: (width=40, height=57)
+    Confidence: 0%
+  Text Box 23:
+    Text: Zora
+    Position: (x=1280, y=760)
+    Size: (width=212, height=97)
+    Confidence: 47%
+  Text Box 24:
+    Text: :
+    Position: (x=1673, y=830)
+    Size: (width=2, height=2)
+    Confidence: 0%
+
+Second 2:
+  Total text boxes: 30
+  Text Box 1:
+    Text: FORMULA
+    Position: (x=107, y=80)
+    Size: (width=549, height=164)
+    Confidence: 96%
+  Text Box 2:
+    Text: |
+    Position: (x=715, y=81)
+    Size: (width=38, height=160)
+    Confidence: 55%
+  Text Box 3:
+    Text: ag
+    Position: (x=975, y=128)
+    Size: (width=230, height=100)
+    Confidence: 0%
+  Text Box 4:
+    Text: het
+    Position: (x=1220, y=132)
+    Size: (width=123, height=87)
+    Confidence: 0%
+  Text Box 5:
+    Text: a
+    Position: (x=1363, y=88)
+    Size: (width=442, height=183)
+    Confidence: 29%
+  Text Box 6:
+    Text: TICKETS
+    Position: (x=100, y=272)
+    Size: (width=480, height=167)
+    Confidence: 93%
+  Text Box 7:
+    Text: AVAILABLE!
+    Position: (x=630, y=275)
+    Size: (width=506, height=241)
+    Confidence: 29%
+  Text Box 8:
+    Text: {~—'S
+    Position: (x=1476, y=296)
+    Size: (width=132, height=56)
+    Confidence: 0%
+  Text Box 9:
+    Text: Rated
+    Position: (x=170, y=816)
+    Size: (width=81, height=26)
+    Confidence: 96%
+  Text Box 10:
+    Text: as
+    Position: (x=262, y=824)
+    Size: (width=32, height=18)
+    Confidence: 96%
+  Text Box 11:
+    Text: Great
+    Position: (x=304, y=816)
+    Size: (width=81, height=26)
+    Confidence: 96%
+  Text Box 12:
+    Text: —
+    Position: (x=704, y=823)
+    Size: (width=60, height=13)
+    Confidence: 55%
+  Text Box 13:
+    Text: /
+    Position: (x=926, y=811)
+    Size: (width=10, height=18)
+    Confidence: 36%
+  Text Box 14:
+    Text: 1
+    Position: (x=943, y=794)
+    Size: (width=26, height=37)
+    Confidence: 25%
+  Text Box 15:
+    Text: ae
+    Position: (x=1037, y=763)
+    Size: (width=109, height=110)
+    Confidence: 36%
+  Text Box 16:
+    Text: ,
+    Position: (x=1164, y=787)
+    Size: (width=26, height=11)
+    Confidence: 0%
+  Text Box 17:
+    Text: iz
+    Position: (x=1240, y=786)
+    Size: (width=81, height=93)
+    Confidence: 3%
+  Text Box 18:
+    Text: od
+    Position: (x=1358, y=774)
+    Size: (width=127, height=75)
+    Confidence: 38%
+  Text Box 19:
+    Text: I
+    Position: (x=1641, y=783)
+    Size: (width=27, height=50)
+    Confidence: 51%
+  Text Box 20:
+    Text: er
+    Position: (x=100, y=866)
+    Size: (width=138, height=137)
+    Confidence: 20%
+  Text Box 21:
+    Text: =
+    Position: (x=243, y=866)
+    Size: (width=210, height=110)
+    Confidence: 21%
+  Text Box 22:
+    Text: “or;
+    Position: (x=985, y=895)
+    Size: (width=118, height=16)
+    Confidence: 12%
+  Text Box 23:
+    Text: 2
+    Position: (x=1226, y=888)
+    Size: (width=48, height=54)
+    Confidence: 0%
+  Text Box 24:
+    Text: |
+    Position: (x=1423, y=887)
+    Size: (width=30, height=117)
+    Confidence: 52%
+  Text Box 25:
+    Text: Get
+    Position: (x=1491, y=887)
+    Size: (width=88, height=117)
+    Confidence: 56%
+  Text Box 26:
+    Text: Tickets
+    Position: (x=1598, y=887)
+    Size: (width=157, height=117)
+    Confidence: 63%
+  Text Box 27:
+    Text: _|
+    Position: (x=1774, y=887)
+    Size: (width=49, height=117)
+    Confidence: 63%
+  Text Box 28:
+    Text: Get
+    Position: (x=1488, y=887)
+    Size: (width=87, height=77)
+    Confidence: 94%
+  Text Box 29:
+    Text: Tickets
+    Position: (x=1593, y=930)
+    Size: (width=154, height=34)
+    Confidence: 96%
+  Text Box 30:
+    Text: Trustpilot
+    Position: (x=221, y=972)
+    Size: (width=171, height=36)
+    Confidence: 89%
+
+Second 3:
+  Total text boxes: 19
+  Text Box 1:
+    Text: TICKETS
+    Position: (x=100, y=268)
+    Size: (width=472, height=204)
+    Confidence: 75%
+  Text Box 2:
+    Text: AVAILABLE
+    Position: (x=630, y=271)
+    Size: (width=659, height=306)
+    Confidence: 60%
+  Text Box 3:
+    Text: i
+    Position: (x=1324, y=207)
+    Size: (width=228, height=291)
+    Confidence: 0%
+  Text Box 4:
+    Text: a
+    Position: (x=865, y=470)
+    Size: (width=79, height=34)
+    Confidence: 19%
+  Text Box 5:
+    Text: »
+    Position: (x=1082, y=463)
+    Size: (width=25, height=60)
+    Confidence: 31%
+  Text Box 6:
+    Text: —
+    Position: (x=1250, y=509)
+    Size: (width=103, height=14)
+    Confidence: 64%
+  Text Box 7:
+    Text: =
+    Position: (x=1582, y=471)
+    Size: (width=24, height=3)
+    Confidence: 91%
+  Text Box 8:
+    Text: creme
+    Position: (x=96, y=473)
+    Size: (width=771, height=319)
+    Confidence: 0%
+  Text Box 9:
+    Text: |
+    Position: (x=1026, y=477)
+    Size: (width=81, height=311)
+    Confidence: 48%
+  Text Box 10:
+    Text: Se
+    Position: (x=1212, y=473)
+    Size: (width=515, height=319)
+    Confidence: 25%
+  Text Box 11:
+    Text: (©)
+    Position: (x=96, y=650)
+    Size: (width=67, height=100)
+    Confidence: 32%
+  Text Box 12:
+    Text: FanProtect
+    Position: (x=190, y=650)
+    Size: (width=256, height=100)
+    Confidence: 84%
+  Text Box 13:
+    Text: 4
+    Position: (x=820, y=717)
+    Size: (width=58, height=10)
+    Confidence: 73%
+  Text Box 14:
+    Text: awa
+    Position: (x=918, y=665)
+    Size: (width=250, height=147)
+    Confidence: 29%
+  Text Box 15:
+    Text: \
+    Position: (x=1622, y=702)
+    Size: (width=40, height=64)
+    Confidence: 0%
+  Text Box 16:
+    Text: on
+    Position: (x=100, y=816)
+    Size: (width=353, height=187)
+    Confidence: 57%
+  Text Box 17:
+    Text: |
+    Position: (x=762, y=806)
+    Size: (width=12, height=27)
+    Confidence: 64%
+  Text Box 18:
+    Text: 2
+    Position: (x=1142, y=788)
+    Size: (width=121, height=94)
+    Confidence: 34%
+  Text Box 19:
+    Text: oom
+    Position: (x=1427, y=783)
+    Size: (width=393, height=217)
+    Confidence: 46%
+
+Second 4:
+  Total text boxes: 10
+  Text Box 1:
+    Text: TICKETS
+    Position: (x=100, y=272)
+    Size: (width=480, height=167)
+    Confidence: 87%
+  Text Box 2:
+    Text: AVAILABLE"
+    Position: (x=630, y=202)
+    Size: (width=1290, height=371)
+    Confidence: 14%
+  Text Box 3:
+    Text: ©)
+    Position: (x=96, y=648)
+    Size: (width=60, height=102)
+    Confidence: 65%
+  Text Box 4:
+    Text: FanProtect
+    Position: (x=190, y=656)
+    Size: (width=258, height=90)
+    Confidence: 72%
+  Text Box 5:
+    Text: y
+    Position: (x=810, y=717)
+    Size: (width=48, height=11)
+    Confidence: 3%
+  Text Box 6:
+    Text: Z
+    Position: (x=1125, y=661)
+    Size: (width=56, height=68)
+    Confidence: 0%
+  Text Box 7:
+    Text: \ce
+    Position: (x=1201, y=654)
+    Size: (width=132, height=89)
+    Confidence: 0%
+  Text Box 8:
+    Text: Ps
+    Position: (x=1357, y=639)
+    Size: (width=87, height=109)
+    Confidence: 0%
+  Text Box 9:
+    Text: —
+    Position: (x=1483, y=640)
+    Size: (width=46, height=72)
+    Confidence: 28%
+  Text Box 10:
+    Text: a
+    Position: (x=1736, y=636)
+    Size: (width=96, height=70)
+    Confidence: 77%
+
+Second 5:
+  Total text boxes: 12
+  Text Box 1:
+    Text: TIGKETS
+    Position: (x=100, y=272)
+    Size: (width=480, height=167)
+    Confidence: 18%
+  Text Box 2:
+    Text: AVAILABLE
+    Position: (x=630, y=275)
+    Size: (width=648, height=297)
+    Confidence: 88%
+  Text Box 3:
+    Text: ath.
+    Position: (x=1308, y=201)
+    Size: (width=612, height=297)
+    Confidence: 22%
+  Text Box 4:
+    Text: (\)
+    Position: (x=96, y=651)
+    Size: (width=66, height=99)
+    Confidence: 18%
+  Text Box 5:
+    Text: FanProtect
+    Position: (x=190, y=651)
+    Size: (width=258, height=99)
+    Confidence: 58%
+  Text Box 6:
+    Text: y
+    Position: (x=807, y=717)
+    Size: (width=41, height=8)
+    Confidence: 29%
+  Text Box 7:
+    Text: =
+    Position: (x=1116, y=659)
+    Size: (width=113, height=86)
+    Confidence: 46%
+  Text Box 8:
+    Text: Tue.
+    Position: (x=1245, y=639)
+    Size: (width=193, height=110)
+    Confidence: 32%
+  Text Box 9:
+    Text: -
+    Position: (x=1475, y=654)
+    Size: (width=15, height=16)
+    Confidence: 0%
+  Text Box 10:
+    Text: cai
+    Position: (x=1500, y=619)
+    Size: (width=96, height=133)
+    Confidence: 42%
+  Text Box 11:
+    Text: (
+    Position: (x=1629, y=642)
+    Size: (width=19, height=106)
+    Confidence: 38%
+  Text Box 12:
+    Text: a
+    Position: (x=1731, y=638)
+    Size: (width=95, height=71)
+    Confidence: 48%
+
+Second 6:
+  Total text boxes: 21
+  Text Box 1:
+    Text: FORMULA
+    Position: (x=107, y=80)
+    Size: (width=646, height=164)
+    Confidence: 74%
+  Text Box 2:
+    Text: 1,
+    Position: (x=718, y=0)
+    Size: (width=119, height=284)
+    Confidence: 74%
+  Text Box 3:
+    Text: >=
+    Position: (x=1161, y=80)
+    Size: (width=659, height=186)
+    Confidence: 30%
+  Text Box 4:
+    Text: =
+    Position: (x=1641, y=0)
+    Size: (width=167, height=284)
+    Confidence: 76%
+  Text Box 5:
+    Text: TICKETS
+    Position: (x=100, y=272)
+    Size: (width=480, height=167)
+    Confidence: 92%
+  Text Box 6:
+    Text: AVAILAB
+    Position: (x=630, y=239)
+    Size: (width=461, height=227)
+    Confidence: 92%
+  Text Box 7:
+    Text: LE
+    Position: (x=1093, y=246)
+    Size: (width=185, height=331)
+    Confidence: 61%
+  Text Box 8:
+    Text: =
+    Position: (x=1300, y=200)
+    Size: (width=280, height=290)
+    Confidence: 79%
+  Text Box 9:
+    Text: =
+    Position: (x=1721, y=245)
+    Size: (width=139, height=100)
+    Confidence: 22%
+  Text Box 10:
+    Text: v)
+    Position: (x=120, y=685)
+    Size: (width=30, height=23)
+    Confidence: 78%
+  Text Box 11:
+    Text: FanProtect
+    Position: (x=190, y=677)
+    Size: (width=258, height=37)
+    Confidence: 92%
+  Text Box 12:
+    Text: :
+    Position: (x=844, y=722)
+    Size: (width=11, height=1)
+    Confidence: 13%
+  Text Box 13:
+    Text: =
+    Position: (x=1134, y=679)
+    Size: (width=30, height=27)
+    Confidence: 63%
+  Text Box 14:
+    Text: Pree:
+    Position: (x=1236, y=636)
+    Size: (width=369, height=99)
+    Confidence: 28%
+  Text Box 15:
+    Text: =
+    Position: (x=1674, y=637)
+    Size: (width=76, height=11)
+    Confidence: 32%
+  Text Box 16:
+    Text: he
+    Position: (x=100, y=656)
+    Size: (width=151, height=186)
+    Confidence: 34%
+  Text Box 17:
+    Text: as
+    Position: (x=263, y=824)
+    Size: (width=31, height=18)
+    Confidence: 96%
+  Text Box 18:
+    Text: Great
+    Position: (x=309, y=816)
+    Size: (width=76, height=26)
+    Confidence: 96%
+  Text Box 19:
+    Text: SF
+    Position: (x=708, y=786)
+    Size: (width=51, height=59)
+    Confidence: 24%
+  Text Box 20:
+    Text: Yar
+    Position: (x=830, y=731)
+    Size: (width=284, height=105)
+    Confidence: 0%
+  Text Box 21:
+    Text: el
+    Position: (x=1110, y=646)
+    Size: (width=526, height=246)
+    Confidence: 23%
+
+Second 7:
+  Total text boxes: 10
+  Text Box 1:
+    Text: TIGKETS
+    Position: (x=100, y=272)
+    Size: (width=480, height=167)
+    Confidence: 0%
+  Text Box 2:
+    Text: AVMLABLE
+    Position: (x=630, y=275)
+    Size: (width=631, height=298)
+    Confidence: 34%
+  Text Box 3:
+    Text: (=
+    Position: (x=1292, y=199)
+    Size: (width=628, height=299)
+    Confidence: 21%
+  Text Box 4:
+    Text: a
+    Position: (x=100, y=817)
+    Size: (width=135, height=186)
+    Confidence: 25%
+  Text Box 5:
+    Text: site
+    Position: (x=236, y=812)
+    Size: (width=216, height=204)
+    Confidence: 16%
+  Text Box 6:
+    Text: —
+    Position: (x=914, y=819)
+    Size: (width=171, height=41)
+    Confidence: 0%
+  Text Box 7:
+    Text: -
+    Position: (x=1108, y=797)
+    Size: (width=175, height=81)
+    Confidence: 0%
+  Text Box 8:
+    Text: —
+    Position: (x=1427, y=786)
+    Size: (width=385, height=214)
+    Confidence: 80%
+  Text Box 9:
+    Text: Get
+    Position: (x=1500, y=929)
+    Size: (width=76, height=35)
+    Confidence: 97%
+  Text Box 10:
+    Text: Tickets
+    Position: (x=1593, y=929)
+    Size: (width=154, height=35)
+    Confidence: 96%
+
+Second 8:
+  Total text boxes: 7
+  Text Box 1:
+    Text: FORMULA
+    Position: (x=107, y=80)
+    Size: (width=646, height=164)
+    Confidence: 81%
+  Text Box 2:
+    Text: 1.
+    Position: (x=713, y=15)
+    Size: (width=128, height=305)
+    Confidence: 45%
+  Text Box 3:
+    Text: =
+    Position: (x=1125, y=247)
+    Size: (width=12, height=8)
+    Confidence: 45%
+  Text Box 4:
+    Text: =
+    Position: (x=1327, y=80)
+    Size: (width=521, height=236)
+    Confidence: 52%
+  Text Box 5:
+    Text: TIGKETS
+    Position: (x=100, y=272)
+    Size: (width=480, height=167)
+    Confidence: 86%
+  Text Box 6:
+    Text: AVAILABLE
+    Position: (x=630, y=275)
+    Size: (width=623, height=297)
+    Confidence: 93%
+  Text Box 7:
+    Text: fab.
+    Position: (x=1284, y=198)
+    Size: (width=636, height=300)
+    Confidence: 44%
+
+Second 9:
+  Total text boxes: 11
+  Text Box 1:
+    Text: TIGKETS
+    Position: (x=100, y=272)
+    Size: (width=480, height=167)
+    Confidence: 84%
+  Text Box 2:
+    Text: AVAILABLE
+    Position: (x=630, y=275)
+    Size: (width=615, height=297)
+    Confidence: 92%
+  Text Box 3:
+    Text: a
+    Position: (x=1276, y=196)
+    Size: (width=254, height=301)
+    Confidence: 21%
+  Text Box 4:
+    Text: ilelolle
+    Position: (x=100, y=812)
+    Size: (width=346, height=200)
+    Confidence: 0%
+  Text Box 5:
+    Text: =
+    Position: (x=895, y=833)
+    Size: (width=112, height=4)
+    Confidence: 60%
+  Text Box 6:
+    Text: sy
+    Position: (x=1189, y=838)
+    Size: (width=78, height=26)
+    Confidence: 0%
+  Text Box 7:
+    Text: |
+    Position: (x=1423, y=892)
+    Size: (width=38, height=112)
+    Confidence: 72%
+  Text Box 8:
+    Text: Get
+    Position: (x=1500, y=929)
+    Size: (width=73, height=35)
+    Confidence: 72%
+  Text Box 9:
+    Text: Tickets
+    Position: (x=1591, y=892)
+    Size: (width=159, height=112)
+    Confidence: 72%
+  Text Box 10:
+    Text: _|
+    Position: (x=1768, y=892)
+    Size: (width=57, height=112)
+    Confidence: 55%
+  Text Box 11:
+    Text: Tickets
+    Position: (x=1593, y=929)
+    Size: (width=154, height=35)
+    Confidence: 96%
+
+Second 10:
+  Total text boxes: 16
+  Text Box 1:
+    Text: TICKETS
+    Position: (x=100, y=272)
+    Size: (width=480, height=167)
+    Confidence: 88%
+  Text Box 2:
+    Text: AVAILABLE
+    Position: (x=630, y=275)
+    Size: (width=607, height=297)
+    Confidence: 24%
+  Text Box 3:
+    Text: "=
+    Position: (x=1268, y=196)
+    Size: (width=652, height=301)
+    Confidence: 25%
+  Text Box 4:
+    Text: a
+    Position: (x=108, y=525)
+    Size: (width=31, height=89)
+    Confidence: 20%
+  Text Box 5:
+    Text: a
+    Position: (x=505, y=477)
+    Size: (width=531, height=281)
+    Confidence: 32%
+  Text Box 6:
+    Text: JOY
+    Position: (x=168, y=525)
+    Size: (width=143, height=90)
+    Confidence: 96%
+  Text Box 7:
+    Text: GREAT
+    Position: (x=351, y=524)
+    Size: (width=215, height=91)
+    Confidence: 95%
+  Text Box 8:
+    Text: RACING
+    Position: (x=597, y=524)
+    Size: (width=239, height=91)
+    Confidence: 95%
+  Text Box 9:
+    Text: LIVE
+    Position: (x=871, y=525)
+    Size: (width=134, height=89)
+    Confidence: 94%
+  Text Box 10:
+    Text: sands
+    Position: (x=1051, y=529)
+    Size: (width=615, height=103)
+    Confidence: 1%
+  Text Box 11:
+    Text: un
+    Position: (x=1668, y=625)
+    Size: (width=56, height=17)
+    Confidence: 14%
+  Text Box 12:
+    Text: sialon
+    Position: (x=100, y=812)
+    Size: (width=352, height=215)
+    Confidence: 23%
+  Text Box 13:
+    Text: a
+    Position: (x=886, y=821)
+    Size: (width=148, height=42)
+    Confidence: 8%
+  Text Box 14:
+    Text: —
+    Position: (x=1394, y=788)
+    Size: (width=418, height=212)
+    Confidence: 64%
+  Text Box 15:
+    Text: Get
+    Position: (x=1500, y=929)
+    Size: (width=76, height=35)
+    Confidence: 96%
+  Text Box 16:
+    Text: Tickets
+    Position: (x=1593, y=929)
+    Size: (width=154, height=35)
+    Confidence: 96%
+
+Second 11:
+  Total text boxes: 3
+  Text Box 1:
+    Text: TICKETS
+    Position: (x=100, y=276)
+    Size: (width=409, height=160)
+    Confidence: 52%
+  Text Box 2:
+    Text: AVAILABLE
+    Position: (x=630, y=275)
+    Size: (width=445, height=256)
+    Confidence: 80%
+  Text Box 3:
+    Text: (-——
+    Position: (x=1180, y=411)
+    Size: (width=399, height=125)
+    Confidence: 6%
+
+Second 12:
+  Total text boxes: 22
+  Text Box 1:
+    Text: FORMULA
+    Position: (x=107, y=80)
+    Size: (width=646, height=164)
+    Confidence: 27%
+  Text Box 2:
+    Text: =
+    Position: (x=1091, y=243)
+    Size: (width=8, height=6)
+    Confidence: 31%
+  Text Box 3:
+    Text: =
+    Position: (x=1295, y=80)
+    Size: (width=527, height=234)
+    Confidence: 30%
+  Text Box 4:
+    Text: TICKETS
+    Position: (x=100, y=272)
+    Size: (width=480, height=167)
+    Confidence: 19%
+  Text Box 5:
+    Text: AVAILABLE
+    Position: (x=630, y=275)
+    Size: (width=593, height=298)
+    Confidence: 40%
+  Text Box 6:
+    Text: (=
+    Position: (x=1277, y=194)
+    Size: (width=633, height=303)
+    Confidence: 23%
+  Text Box 7:
+    Text: BE
+    Position: (x=125, y=531)
+    Size: (width=88, height=107)
+    Confidence: 96%
+  Text Box 8:
+    Text: THERE...
+    Position: (x=247, y=531)
+    Size: (width=306, height=107)
+    Confidence: 83%
+  Text Box 9:
+    Text: LIVE!
+    Position: (x=594, y=531)
+    Size: (width=183, height=107)
+    Confidence: 96%
+  Text Box 10:
+    Text: foe
+    Position: (x=839, y=520)
+    Size: (width=77, height=112)
+    Confidence: 41%
+  Text Box 11:
+    Text: ies
+    Position: (x=1055, y=513)
+    Size: (width=390, height=169)
+    Confidence: 5%
+  Text Box 12:
+    Text: Hy
+    Position: (x=1517, y=528)
+    Size: (width=77, height=77)
+    Confidence: 10%
+  Text Box 13:
+    Text: HNEVERSOLODUT
+    Position: (x=99, y=686)
+    Size: (width=415, height=67)
+    Confidence: 31%
+  Text Box 14:
+    Text: =
+    Position: (x=593, y=645)
+    Size: (width=70, height=166)
+    Confidence: 42%
+  Text Box 15:
+    Text: |
+    Position: (x=972, y=567)
+    Size: (width=626, height=253)
+    Confidence: 33%
+  Text Box 16:
+    Text: +eae
+    Position: (x=100, y=816)
+    Size: (width=349, height=116)
+    Confidence: 0%
+  Text Box 17:
+    Text: =
+    Position: (x=906, y=814)
+    Size: (width=138, height=20)
+    Confidence: 57%
+  Text Box 18:
+    Text: ps
+    Position: (x=1164, y=802)
+    Size: (width=78, height=62)
+    Confidence: 22%
+  Text Box 19:
+    Text: —
+    Position: (x=1380, y=791)
+    Size: (width=430, height=209)
+    Confidence: 77%
+  Text Box 20:
+    Text: =
+    Position: (x=1593, y=930)
+    Size: (width=154, height=34)
+    Confidence: 59%
+  Text Box 21:
+    Text: *
+    Position: (x=162, y=954)
+    Size: (width=36, height=49)
+    Confidence: 48%
+  Text Box 22:
+    Text: Trustpilot
+    Position: (x=221, y=954)
+    Size: (width=171, height=54)
+    Confidence: 92%
+
+Second 13:
+  Total text boxes: 13
+  Text Box 1:
+    Text: GKETS
+    Position: (x=215, y=274)
+    Size: (width=70, height=164)
+    Confidence: 76%
+  Text Box 2:
+    Text: AVAILABLE
+    Position: (x=518, y=272)
+    Size: (width=456, height=186)
+    Confidence: 79%
+  Text Box 3:
+    Text: i
+    Position: (x=1429, y=192)
+    Size: (width=220, height=284)
+    Confidence: 0%
+  Text Box 4:
+    Text: =
+    Position: (x=1783, y=316)
+    Size: (width=116, height=81)
+    Confidence: 50%
+  Text Box 5:
+    Text: TICKETS
+    Position: (x=100, y=276)
+    Size: (width=409, height=160)
+    Confidence: 95%
+  Text Box 6:
+    Text: AVAILABLE
+    Position: (x=750, y=275)
+    Size: (width=302, height=255)
+    Confidence: 92%
+  Text Box 7:
+    Text: /
+    Position: (x=1280, y=276)
+    Size: (width=1, height=246)
+    Confidence: 10%
+  Text Box 8:
+    Text: #NEVERSOLDOUT
+    Position: (x=99, y=686)
+    Size: (width=415, height=67)
+    Confidence: 15%
+  Text Box 9:
+    Text: Stee
+    Position: (x=963, y=548)
+    Size: (width=614, height=277)
+    Confidence: 36%
+  Text Box 10:
+    Text: Rated
+    Position: (x=170, y=817)
+    Size: (width=81, height=25)
+    Confidence: 96%
+  Text Box 11:
+    Text: as
+    Position: (x=264, y=824)
+    Size: (width=26, height=18)
+    Confidence: 96%
+  Text Box 12:
+    Text: Great
+    Position: (x=305, y=816)
+    Size: (width=80, height=26)
+    Confidence: 96%
+  Text Box 13:
+    Text: ae
+    Position: (x=828, y=788)
+    Size: (width=573, height=61)
+    Confidence: 13%
+
+Second 14:
+  Total text boxes: 10
+  Text Box 1:
+    Text: CKETS
+    Position: (x=215, y=274)
+    Size: (width=70, height=164)
+    Confidence: 80%
+  Text Box 2:
+    Text: AVAILABLE‘
+    Position: (x=518, y=272)
+    Size: (width=424, height=186)
+    Confidence: 20%
+  Text Box 3:
+    Text: TIGKETS
+    Position: (x=100, y=276)
+    Size: (width=409, height=160)
+    Confidence: 92%
+  Text Box 4:
+    Text: AVAILABLE
+    Position: (x=741, y=275)
+    Size: (width=302, height=255)
+    Confidence: 94%
+  Text Box 5:
+    Text: |
+    Position: (x=1170, y=276)
+    Size: (width=357, height=246)
+    Confidence: 13%
+  Text Box 6:
+    Text: J#NEVERSOLDOUT
+    Position: (x=95, y=641)
+    Size: (width=418, height=132)
+    Confidence: 7%
+  Text Box 7:
+    Text: aS
+    Position: (x=953, y=663)
+    Size: (width=178, height=154)
+    Confidence: 18%
+  Text Box 8:
+    Text: ras
+    Position: (x=1199, y=584)
+    Size: (width=375, height=242)
+    Confidence: 37%
+  Text Box 9:
+    Text: >
+    Position: (x=158, y=949)
+    Size: (width=27, height=64)
+    Confidence: 9%
+  Text Box 10:
+    Text: Trustpilot
+    Position: (x=162, y=954)
+    Size: (width=230, height=54)
+    Confidence: 92%

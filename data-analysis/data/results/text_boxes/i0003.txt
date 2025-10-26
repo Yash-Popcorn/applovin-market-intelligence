@@ -1,0 +1,365 @@
+Total text boxes detected: 52
+
+Text Box 1:
+  Text: Mercedes-Benz
+  Position: (x=18, y=16)
+  Size: (width=95, height=10)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 1, Word: 1
+
+Text Box 2:
+  Text: Vans
+  Position: (x=118, y=16)
+  Size: (width=28, height=10)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 1, Word: 2
+
+Text Box 3:
+  Text: USA.
+  Position: (x=153, y=16)
+  Size: (width=25, height=10)
+  Confidence: 31%
+  Block: 1, Paragraph: 1, Line: 1, Word: 3
+
+Text Box 4:
+  Text: Savings
+  Position: (x=18, y=60)
+  Size: (width=44, height=13)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 2, Word: 1
+
+Text Box 5:
+  Text: that
+  Position: (x=67, y=60)
+  Size: (width=24, height=10)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 2, Word: 2
+
+Text Box 6:
+  Text: work
+  Position: (x=106, y=60)
+  Size: (width=16, height=10)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 2, Word: 3
+
+Text Box 7:
+  Text: as
+  Position: (x=131, y=63)
+  Size: (width=10, height=7)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 2, Word: 4
+
+Text Box 8:
+  Text: hard
+  Position: (x=149, y=60)
+  Size: (width=24, height=10)
+  Confidence: 95%
+  Block: 1, Paragraph: 1, Line: 2, Word: 5
+
+Text Box 9:
+  Text: as
+  Position: (x=180, y=63)
+  Size: (width=10, height=7)
+  Confidence: 95%
+  Block: 1, Paragraph: 1, Line: 2, Word: 6
+
+Text Box 10:
+  Text: your
+  Position: (x=198, y=63)
+  Size: (width=19, height=8)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 2, Word: 7
+
+Text Box 11:
+  Text: fleet.
+  Position: (x=227, y=61)
+  Size: (width=26, height=9)
+  Confidence: 95%
+  Block: 1, Paragraph: 1, Line: 2, Word: 8
+
+Text Box 12:
+  Text: Talk
+  Position: (x=261, y=60)
+  Size: (width=15, height=10)
+  Confidence: 95%
+  Block: 1, Paragraph: 1, Line: 2, Word: 9
+
+Text Box 13:
+  Text: to
+  Position: (x=288, y=63)
+  Size: (width=12, height=7)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 2, Word: 10
+
+Text Box 14:
+  Text: your
+  Position: (x=307, y=63)
+  Size: (width=15, height=7)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 2, Word: 11
+
+Text Box 15:
+  Text: dealer
+  Position: (x=337, y=60)
+  Size: (width=35, height=10)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 2, Word: 12
+
+Text Box 16:
+  Text: about
+  Position: (x=380, y=52)
+  Size: (width=31, height=26)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 2, Word: 13
+
+Text Box 17:
+  Text: stackable
+  Position: (x=416, y=60)
+  Size: (width=59, height=10)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 2, Word: 14
+
+Text Box 18:
+  Text: offers
+  Position: (x=480, y=61)
+  Size: (width=33, height=9)
+  Confidence: 92%
+  Block: 1, Paragraph: 1, Line: 2, Word: 15
+
+Text Box 19:
+  Text: on
+  Position: (x=519, y=63)
+  Size: (width=14, height=7)
+  Confidence: 92%
+  Block: 1, Paragraph: 1, Line: 2, Word: 16
+
+Text Box 20:
+  Text: Sprinters.
+  Position: (x=18, y=80)
+  Size: (width=52, height=13)
+  Confidence: 60%
+  Block: 1, Paragraph: 1, Line: 3, Word: 1
+
+Text Box 21:
+  Text: 30m
+  Position: (x=170, y=139)
+  Size: (width=218, height=52)
+  Confidence: 37%
+  Block: 1, Paragraph: 1, Line: 4, Word: 1
+
+Text Box 22:
+  Text: ~Summer
+  Position: (x=234, y=176)
+  Size: (width=62, height=12)
+  Confidence: 87%
+  Block: 1, Paragraph: 1, Line: 5, Word: 1
+
+Text Box 23:
+  Text: Sales
+  Position: (x=303, y=175)
+  Size: (width=32, height=13)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 5, Word: 2
+
+Text Box 24:
+  Text: Event
+  Position: (x=342, y=175)
+  Size: (width=34, height=13)
+  Confidence: 91%
+  Block: 1, Paragraph: 1, Line: 5, Word: 3
+
+Text Box 25:
+  Text: ~
+  Position: (x=382, y=181)
+  Size: (width=5, height=2)
+  Confidence: 60%
+  Block: 1, Paragraph: 1, Line: 5, Word: 4
+
+Text Box 26:
+  Text: For
+  Position: (x=111, y=242)
+  Size: (width=27, height=18)
+  Confidence: 97%
+  Block: 1, Paragraph: 1, Line: 6, Word: 1
+
+Text Box 27:
+  Text: 2025
+  Position: (x=144, y=242)
+  Size: (width=40, height=18)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 6, Word: 2
+
+Text Box 28:
+  Text: Cargo
+  Position: (x=191, y=242)
+  Size: (width=47, height=21)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 6, Word: 3
+
+Text Box 29:
+  Text: and
+  Position: (x=245, y=242)
+  Size: (width=29, height=18)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 6, Word: 4
+
+Text Box 30:
+  Text: Crew
+  Position: (x=282, y=242)
+  Size: (width=42, height=18)
+  Confidence: 93%
+  Block: 1, Paragraph: 1, Line: 6, Word: 5
+
+Text Box 31:
+  Text: Sprinters,
+  Position: (x=331, y=242)
+  Size: (width=82, height=22)
+  Confidence: 92%
+  Block: 1, Paragraph: 1, Line: 6, Word: 6
+
+Text Box 32:
+  Text: get
+  Position: (x=420, y=244)
+  Size: (width=23, height=19)
+  Confidence: 95%
+  Block: 1, Paragraph: 1, Line: 6, Word: 7
+
+Text Box 33:
+  Text: 52,000"
+  Position: (x=70, y=290)
+  Size: (width=173, height=58)
+  Confidence: 60%
+  Block: 1, Paragraph: 1, Line: 7, Word: 1
+
+Text Box 34:
+  Text: ;
+  Position: (x=273, y=283)
+  Size: (width=1, height=35)
+  Confidence: 0%
+  Block: 1, Paragraph: 1, Line: 7, Word: 2
+
+Text Box 35:
+  Text: 5
+  Position: (x=119, y=340)
+  Size: (width=10, height=19)
+  Confidence: 72%
+  Block: 1, Paragraph: 1, Line: 8, Word: 1
+
+Text Box 36:
+  Text: +
+  Position: (x=265, y=326)
+  Size: (width=17, height=20)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 8, Word: 2
+
+Text Box 37:
+  Text: Customer
+  Position: (x=116, y=372)
+  Size: (width=49, height=11)
+  Confidence: 92%
+  Block: 1, Paragraph: 1, Line: 9, Word: 1
+
+Text Box 38:
+  Text: Cash
+  Position: (x=171, y=372)
+  Size: (width=25, height=11)
+  Confidence: 95%
+  Block: 1, Paragraph: 1, Line: 9, Word: 2
+
+Text Box 39:
+  Text: |
+  Position: (x=273, y=355)
+  Size: (width=2, height=35)
+  Confidence: 93%
+  Block: 1, Paragraph: 1, Line: 9, Word: 3
+
+Text Box 40:
+  Text: Customer
+  Position: (x=308, y=372)
+  Size: (width=46, height=11)
+  Confidence: 92%
+  Block: 1, Paragraph: 1, Line: 9, Word: 4
+
+Text Box 41:
+  Text: Cash
+  Position: (x=364, y=372)
+  Size: (width=21, height=11)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 9, Word: 5
+
+Text Box 42:
+  Text: for
+  Position: (x=394, y=372)
+  Size: (width=12, height=11)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 9, Word: 6
+
+Text Box 43:
+  Text: Medium
+  Position: (x=413, y=372)
+  Size: (width=43, height=11)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 9, Word: 7
+
+Text Box 44:
+  Text: Fleet
+  Position: (x=461, y=372)
+  Size: (width=25, height=11)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 9, Word: 8
+
+Text Box 45:
+  Text: im
+  Position: (x=146, y=534)
+  Size: (width=98, height=27)
+  Confidence: 69%
+  Block: 1, Paragraph: 1, Line: 10, Word: 1
+
+Text Box 46:
+  Text: Oe
+  Position: (x=37, y=579)
+  Size: (width=175, height=26)
+  Confidence: 30%
+  Block: 1, Paragraph: 1, Line: 11, Word: 1
+
+Text Box 47:
+  Text: The
+  Position: (x=13, y=671)
+  Size: (width=22, height=10)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 12, Word: 1
+
+Text Box 48:
+  Text: Mercedes-Benz
+  Position: (x=41, y=671)
+  Size: (width=96, height=10)
+  Confidence: 95%
+  Block: 1, Paragraph: 1, Line: 12, Word: 2
+
+Text Box 49:
+  Text: Sprinter
+  Position: (x=142, y=671)
+  Size: (width=47, height=13)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 12, Word: 3
+
+Text Box 50:
+  Text: (Learn
+  Position: (x=444, y=668)
+  Size: (width=50, height=23)
+  Confidence: 47%
+  Block: 1, Paragraph: 1, Line: 12, Word: 4
+
+Text Box 51:
+  Text: more
+  Position: (x=501, y=668)
+  Size: (width=37, height=23)
+  Confidence: 91%
+  Block: 1, Paragraph: 1, Line: 12, Word: 5
+
+Text Box 52:
+  Text: )
+  Position: (x=546, y=677)
+  Size: (width=2, height=11)
+  Confidence: 91%
+  Block: 1, Paragraph: 1, Line: 12, Word: 6

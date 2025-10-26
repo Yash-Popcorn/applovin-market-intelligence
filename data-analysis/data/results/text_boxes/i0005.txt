@@ -1,0 +1,295 @@
+Total text boxes detected: 42
+
+Text Box 1:
+  Text: &
+  Position: (x=8, y=14)
+  Size: (width=45, height=34)
+  Confidence: 80%
+  Block: 1, Paragraph: 1, Line: 1, Word: 1
+
+Text Box 2:
+  Text: Einstein
+  Position: (x=63, y=22)
+  Size: (width=61, height=12)
+  Confidence: 94%
+  Block: 1, Paragraph: 1, Line: 1, Word: 2
+
+Text Box 3:
+  Text: Bros.
+  Position: (x=130, y=22)
+  Size: (width=39, height=12)
+  Confidence: 94%
+  Block: 1, Paragraph: 1, Line: 1, Word: 3
+
+Text Box 4:
+  Text: Bagels
+  Position: (x=175, y=22)
+  Size: (width=51, height=15)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 1, Word: 4
+
+Text Box 5:
+  Text: x3
+  Position: (x=347, y=19)
+  Size: (width=58, height=26)
+  Confidence: 71%
+  Block: 1, Paragraph: 1, Line: 1, Word: 5
+
+Text Box 6:
+  Text: Naf
+  Position: (x=12, y=48)
+  Size: (width=40, height=9)
+  Confidence: 11%
+  Block: 1, Paragraph: 1, Line: 2, Word: 1
+
+Text Box 7:
+  Text: Sponsored
+  Position: (x=64, y=44)
+  Size: (width=70, height=13)
+  Confidence: 79%
+  Block: 1, Paragraph: 1, Line: 2, Word: 2
+
+Text Box 8:
+  Text: :
+  Position: (x=398, y=41)
+  Size: (width=7, height=7)
+  Confidence: 62%
+  Block: 1, Paragraph: 1, Line: 2, Word: 3
+
+Text Box 9:
+  Text: Try
+  Position: (x=9, y=76)
+  Size: (width=21, height=15)
+  Confidence: 95%
+  Block: 1, Paragraph: 1, Line: 3, Word: 1
+
+Text Box 10:
+  Text: the
+  Position: (x=36, y=76)
+  Size: (width=21, height=12)
+  Confidence: 95%
+  Block: 1, Paragraph: 1, Line: 3, Word: 2
+
+Text Box 11:
+  Text: NEW
+  Position: (x=64, y=76)
+  Size: (width=35, height=12)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 3, Word: 3
+
+Text Box 12:
+  Text: Oktoberfest
+  Position: (x=105, y=76)
+  Size: (width=81, height=12)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 3, Word: 4
+
+Text Box 13:
+  Text: Egg
+  Position: (x=192, y=76)
+  Size: (width=26, height=15)
+  Confidence: 86%
+  Block: 1, Paragraph: 1, Line: 3, Word: 5
+
+Text Box 14:
+  Text: Sandwich
+  Position: (x=225, y=76)
+  Size: (width=67, height=12)
+  Confidence: 93%
+  Block: 1, Paragraph: 1, Line: 3, Word: 6
+
+Text Box 15:
+  Text: —
+  Position: (x=298, y=83)
+  Size: (width=8, height=1)
+  Confidence: 79%
+  Block: 1, Paragraph: 1, Line: 3, Word: 7
+
+Text Box 16:
+  Text: Pretzel
+  Position: (x=313, y=76)
+  Size: (width=47, height=12)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 3, Word: 8
+
+Text Box 17:
+  Text: Bagel
+  Position: (x=367, y=76)
+  Size: (width=38, height=15)
+  Confidence: 92%
+  Block: 1, Paragraph: 1, Line: 3, Word: 9
+
+Text Box 18:
+  Text: §
+  Position: (x=10, y=95)
+  Size: (width=18, height=16)
+  Confidence: 70%
+  Block: 1, Paragraph: 1, Line: 4, Word: 1
+
+Text Box 19:
+  Text: with
+  Position: (x=35, y=97)
+  Size: (width=27, height=12)
+  Confidence: 97%
+  Block: 1, Paragraph: 1, Line: 4, Word: 2
+
+Text Box 20:
+  Text: Bacon,
+  Position: (x=69, y=97)
+  Size: (width=47, height=14)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 4, Word: 3
+
+Text Box 21:
+  Text: Ham,
+  Position: (x=123, y=97)
+  Size: (width=32, height=12)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 4, Word: 4
+
+Text Box 22:
+  Text: Swiss
+  Position: (x=166, y=97)
+  Size: (width=40, height=12)
+  Confidence: 93%
+  Block: 1, Paragraph: 1, Line: 4, Word: 5
+
+Text Box 23:
+  Text: &
+  Position: (x=212, y=97)
+  Size: (width=9, height=12)
+  Confidence: 93%
+  Block: 1, Paragraph: 1, Line: 4, Word: 6
+
+Text Box 24:
+  Text: Beer
+  Position: (x=227, y=97)
+  Size: (width=33, height=12)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 4, Word: 7
+
+Text Box 25:
+  Text: Cheese
+  Position: (x=265, y=97)
+  Size: (width=53, height=12)
+  Confidence: 93%
+  Block: 1, Paragraph: 1, Line: 4, Word: 8
+
+Text Box 26:
+  Text: Shmear
+  Position: (x=325, y=97)
+  Size: (width=55, height=12)
+  Confidence: 93%
+  Block: 1, Paragraph: 1, Line: 4, Word: 9
+
+Text Box 27:
+  Text: @
+  Position: (x=388, y=94)
+  Size: (width=8, height=18)
+  Confidence: 77%
+  Block: 1, Paragraph: 1, Line: 4, Word: 10
+
+Text Box 28:
+  Text: It
+  Position: (x=410, y=97)
+  Size: (width=7, height=12)
+  Confidence: 93%
+  Block: 1, Paragraph: 1, Line: 4, Word: 11
+
+Text Box 29:
+  Text: won't
+  Position: (x=9, y=118)
+  Size: (width=36, height=12)
+  Confidence: 92%
+  Block: 1, Paragraph: 1, Line: 5, Word: 1
+
+Text Box 30:
+  Text: last
+  Position: (x=51, y=118)
+  Size: (width=23, height=12)
+  Confidence: 92%
+  Block: 1, Paragraph: 1, Line: 5, Word: 2
+
+Text Box 31:
+  Text: long!
+  Position: (x=80, y=118)
+  Size: (width=32, height=15)
+  Confidence: 91%
+  Block: 1, Paragraph: 1, Line: 5, Word: 3
+
+Text Box 32:
+  Text: EGG
+  Position: (x=165, y=308)
+  Size: (width=24, height=9)
+  Confidence: 90%
+  Block: 1, Paragraph: 1, Line: 6, Word: 1
+
+Text Box 33:
+  Text: SANDWICH
+  Position: (x=194, y=308)
+  Size: (width=70, height=9)
+  Confidence: 95%
+  Block: 1, Paragraph: 1, Line: 6, Word: 2
+
+Text Box 34:
+  Text: =
+  Position: (x=239, y=351)
+  Size: (width=6, height=3)
+  Confidence: 30%
+  Block: 1, Paragraph: 1, Line: 7, Word: 1
+
+Text Box 35:
+  Text: A
+  Position: (x=265, y=353)
+  Size: (width=45, height=15)
+  Confidence: 36%
+  Block: 1, Paragraph: 1, Line: 7, Word: 2
+
+Text Box 36:
+  Text: e772
+  Position: (x=18, y=372)
+  Size: (width=320, height=67)
+  Confidence: 23%
+  Block: 1, Paragraph: 1, Line: 8, Word: 1
+
+Text Box 37:
+  Text: Eye”
+  Position: (x=199, y=532)
+  Size: (width=107, height=20)
+  Confidence: 0%
+  Block: 1, Paragraph: 1, Line: 9, Word: 1
+
+Text Box 38:
+  Text: Oktoberfest
+  Position: (x=17, y=599)
+  Size: (width=78, height=10)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 10, Word: 1
+
+Text Box 39:
+  Text: Egg
+  Position: (x=100, y=599)
+  Size: (width=24, height=13)
+  Confidence: 95%
+  Block: 1, Paragraph: 1, Line: 10, Word: 2
+
+Text Box 40:
+  Text: Sandwich
+  Position: (x=131, y=599)
+  Size: (width=62, height=10)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 10, Word: 3
+
+Text Box 41:
+  Text: Order
+  Position: (x=333, y=592)
+  Size: (width=38, height=10)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 10, Word: 4
+
+Text Box 42:
+  Text: now
+  Position: (x=378, y=594)
+  Size: (width=24, height=8)
+  Confidence: 96%
+  Block: 1, Paragraph: 1, Line: 10, Word: 5

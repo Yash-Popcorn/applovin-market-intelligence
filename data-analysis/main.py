@@ -17,6 +17,7 @@ import util.sound
 import util.depth_map
 import util.llm_insights
 import util.sound_extraction
+import util.text_boxes
 
 # SETTINGS
 MAX_IMAGES_TO_PROCESS = 5
@@ -64,7 +65,10 @@ def print_all_media_paths():
                 #util.llm_insights.run(file_path)
                 
                 # audio separation of each video (vocals, drums, bass, other, instrumental)
-                util.sound_extraction.run(file_path)
+                #util.sound_extraction.run(file_path)
+                
+                # text bounding boxes (OCR) for each image/video
+                util.text_boxes.run(file_path)
 
 if __name__ == "__main__":
     print_all_media_paths()
